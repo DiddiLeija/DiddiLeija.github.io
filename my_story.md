@@ -55,5 +55,6 @@ I also created this repos:
 **In the present day**, I've been looking for something new, and I'm open to any opportunity.
 
 ****
+****
 
-###### [Go back to the home page](http://DiddiLeija.github.io)
+**[Go back to the home page](http://DiddiLeija.github.io)**
