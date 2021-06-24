@@ -4,9 +4,10 @@ Actually, I'm don't have a really long time of programming. But let's see how di
 
 ****
 
-I always loved technology, even before I started to learn programming. I remember that, from **2017 to 2019**, my robotics teacher named Salvador Mercado
-teached me to use Java and Pascal on simple programs. I think that's where I started to get interesed in programming. But I didn't go ahead on that for a
-long time.
+I always loved technology, even before I started to learn programming. I remember that, from **2017 to 2019**, my robotics teacher named _Salvador Mercado_
+teached me to use [Java](http://www.java.com) and Pascal on simple programs 
+(using something called "[Karel](https://www.olimpiadadeinformatica.org.mx/omi/omi/Material/Karel_el_Robot.aspx)"). 
+I think that's where I started to get interesed in programming. But I didn't go ahead on that for a long time.
 
 ****
 
@@ -30,7 +31,7 @@ In all that period, I read the whole [Python documentation](http://docs.python.o
 
 On **December, 2020**, I tooked several [Python courses on Spanish](http://capacitateparaelempleo.org) \(yeah, Spanish is my native language\) 
 to certificate and extend my knowledge. That's where I found the power of GUIs (Graphical User Interfaces) with Python... 
-Since that, I haven't stopped of making GUIs.
+Since that, I haven't stopped making GUIs.
 
 ****
 
@@ -51,3 +52,7 @@ I also created this repos:
 ****
 
 **In the present day**, I've been looking for something new, and I'm open to any opportunity.
+
+****
+
+**[Go back to the home page](http://DiddiLeija.github.io)**
