@@ -1,6 +1,6 @@
 # My programming story
 
-Actually, I'm don't have a really long time of programming :laughing:. But let's see how did I started to write programs.
+Actually, I'm don't have a really long time of programming. But let's see how did I started to write programs.
 
 ****
 
