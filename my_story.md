@@ -28,8 +28,9 @@ In all that period, I read the whole [Python documentation](http://docs.python.o
 
 ****
 
-On **December, 2020**, I tooked several [Python courses on Spanish](http://capacitateparaelempleo.org) to certificate and extend my knowledge. That's where
-I found the power of GUIs (Graphical User Interfaces)... Since that day, I haven't stopped of making GUIs.
+On **December, 2020**, I tooked several [Python courses on Spanish](http://capacitateparaelempleo.org) \(yeah, Spanish is my native language\) 
+to certificate and extend my knowledge. That's where I found the power of GUIs (Graphical User Interfaces) with Python... 
+Since that, I haven't stopped of making GUIs.
 
 ****
 
