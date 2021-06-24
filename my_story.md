@@ -4,7 +4,13 @@ Actually, I'm don't have a really long time of programming :laughing:. But let's
 
 ****
 
-I started on **June 2020**, when I tried an online course named "[Python for Everybody](https://www.coursera.org/learn/python/home/welcome)", 
+I always loved technology, even before I started to learn programming. I remember that, from **2017 to 2019**, my robotics teacher named Salvador Mercado
+teached me to use Java and Pascal on simple programs. I think that's where I started to get interesed in programming. But I didn't go ahead on that for a
+long time.
+
+****
+
+I started (seriously) on **June 2020**, when I tried an online course named "[Python for Everybody](https://www.coursera.org/learn/python/home/welcome)", 
 by the University of Michigan. I completed it, and then, I wanted to extend my Python knowledge.
 
 ****
