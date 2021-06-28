@@ -52,4 +52,4 @@ I also created this repos:
 
 ****
 
-**In the present day**, I've been looking for something new, and I'm open to any opportunity.
+**In the present day**, I have been looking for something new to do, and I'm open to any opportunity, locally and globally.
