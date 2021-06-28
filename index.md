@@ -8,3 +8,4 @@ share my strange ideas with the world!
 Find good pages about me, on a more personal level:
 
 - [My programming story](http://diddileija.github.io/my_story). There, you can read my story since I started to write programs.
+- [My programming profile](http://diddileija.github.io/profile). Read a short document about the things I use.
