@@ -65,7 +65,7 @@ et dolore magna aliqua.
 print(justify(s))
 ```
 
-`text_formatter` is a new package that I created to pretty format [Python strings](https://docs.python.org/3.8/library/stdtypes.html#text-sequence-type-str), with simple
+`text_formatter` is a new recent package that I created to pretty format [Python strings](https://docs.python.org/3.8/library/stdtypes.html#text-sequence-type-str), with simple
 functions. It's still on development, so feel free to take a look on it.
 
 \([View this project on GitHub](http://github.com/diddileija/text_formatter)\).
