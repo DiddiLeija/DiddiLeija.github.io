@@ -3,6 +3,10 @@
 Hi, I am [@DiddiLeija](http://github.com/diddileija), I'm a Python developer who is ready to
 share my strange ideas with the world!
 
+```python
+print("Hello, I am DiddiLeija.")
+```
+
 ## Table of contents
 
 Find good pages about me, on a more personal level:
