@@ -1,7 +1,7 @@
 # DiddiLeija.github.io
 
 Source code for my personal website (maybe), that must be
-named `DiddiLeija.github.io`. I will be working here to
+named [`DiddiLeija.github.io`](http://diddileija.github.io). I will be working here to
 build something cool to describe myself. 
 
 I want to use the Jekyll theme [`hacker`](http://github.com/pages-themes/hacker)
