@@ -6,7 +6,7 @@ Actually, I'm don't have a really long time of programming. But let's see how di
 
 I always loved technology, even before I started to learn programming. I remember that, from **2017 to 2019**, my robotics teacher
 showed me how to use [Java](http://www.java.com) and Pascal on simple programs 
-(using something called "[Karel](https://www.olimpiadadeinformatica.org.mx/omi/omi/Material/Karel_el_Robot.aspx)"). 
+(using something named "[Karel el Robot](https://www.olimpiadadeinformatica.org.mx/omi/omi/Material/Karel_el_Robot.aspx)"). 
 I think that's where I started to get interesed in programming. But I didn't go ahead on that for a long time.
 
 ****
@@ -23,7 +23,7 @@ created these public projects:
 - [aleat2](http://github.com/diddileija/aleat2)
 - [aleat3](http://github.com/diddileija/aleat3)
 
-_\(You can also see them on [PyPI](pypi.org)\)._
+_\(You can also see them on [PyPI](http://pypi.org)\)._
 
 In all that period, I read the whole [Python documentation](http://docs.python.org/3.8). (No, I'm serious, I did it).
 
