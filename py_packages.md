@@ -42,3 +42,30 @@ d.run()
 `diddiparser` is a package intended to parse something called "`DiddiScript`" \(it is a language that I would like to develop\), and run it from Python.
 
 \([View this project on GitHub](http://github.com/diddileija/diddiparser)\).
+
+### `text_formatter`
+
+```python
+from text_formatter.justify import justify
+
+# define a (larger?) string, something like
+# a "document"...
+s = """
+Hello, this is a test string that
+must fit into 80 spaces by line using
+`text_formatter.justify`.
+
+Lorem ipsum dolor sit amet, 
+consectetur adipisicing elit, sed do 
+eiusmod tempor incididunt ut labore 
+et dolore magna aliqua.
+"""
+
+# format the string
+print(justify(s))
+```
+
+`text_formatter` is a new package that I created to pretty format [Python strings](https://docs.python.org/3.8/library/stdtypes.html#text-sequence-type-str), with simple
+functions. It's still on development, so feel free to take a look on it.
+
+\([View this project on GitHub](http://github.com/diddileija/text_formatter)\).
