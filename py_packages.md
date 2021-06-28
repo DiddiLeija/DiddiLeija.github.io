@@ -8,7 +8,7 @@ pip install PackageName
 
 ## Some of my public packages
 
-### `aleat3`
+### aleat3
 
 ```python
 from aleat3 import Aleatoryous
@@ -27,7 +27,7 @@ print(Aleatoryous("aleatory.roulette", [1, 2, 3]).single())
 
 \([View this project on GitHub](http://github.com/diddileija/aleat3)\).
 
-### `diddiparser`
+### diddiparser
 
 ```python
 from diddiparser.parser import DiddiScriptFile
@@ -43,7 +43,7 @@ d.run()
 
 \([View this project on GitHub](http://github.com/diddileija/diddiparser)\).
 
-### `text_formatter`
+### text\_formatter
 
 ```python
 from text_formatter.justify import justify
