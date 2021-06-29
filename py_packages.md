@@ -49,6 +49,7 @@ d.run()
 ### text\_formatter
 
 ```python
+# a known feature: justify()
 from text_formatter.justify import justify
 
 # define a (larger?) string, something like
@@ -57,6 +58,9 @@ s = """
 Hello, this is a test string that
 must fit into 80 spaces by line using
 `text_formatter.justify`.
+
+A "lorem ipsum" paragraph can be
+part of our test string:
 
 Lorem ipsum dolor sit amet, 
 consectetur adipisicing elit, sed do 
