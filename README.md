@@ -1,6 +1,6 @@
 # DiddiLeija.github.io
 
-Source code for my personal website (maybe), that must be
+Source code for my personal website,
 named [`DiddiLeija.github.io`](http://diddileija.github.io). I will be working here to
 build something cool to describe myself. 
 
