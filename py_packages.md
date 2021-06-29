@@ -25,6 +25,9 @@ print(Aleatoryous("aleatory.roulette", [1, 2, 3]).single())
 - **Coin shooting**: One of these [Python strings](https://docs.python.org/3.8/library/stdtypes.html#text-sequence-type-str): `"Heads"` and `"Tails"`.
 - **A roulette**: Use a custom [Python sequence](https://docs.python.org/3.8/library/stdtypes.html#sequence-types-list-tuple-range) for doing this.
 
+This package is coming from other 2 packages: [`aleat1`](http://github.com/diddileija/aleat1) and [`aleat2`](http://github.com/diddileija/aleat2),
+but I don't think they deserve a special section.
+
 \([View this project on GitHub](http://github.com/diddileija/aleat3)\).
 
 ### diddiparser
