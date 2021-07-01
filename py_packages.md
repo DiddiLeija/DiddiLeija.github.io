@@ -19,7 +19,7 @@ print(Aleatoryous("aleatory.dice").single())
 print(Aleatoryous("aleatory.roulette", [1, 2, 3]).single())
 ```
 
-**`aleat3`** \(formerly `Aleatoryous 3`\) is a package to build aleatory Python objects, based on these syntaxes:
+**`aleat3`** \(formerly **`Aleatoryous 3`**\) is a package to build aleatory Python objects, based on these syntaxes:
 
 - **Dice rolls**: A random result between 1 and 6.
 - **Coin shooting**: One of these [Python strings](https://docs.python.org/3.8/library/stdtypes.html#text-sequence-type-str): `"Heads"` and `"Tails"`.
