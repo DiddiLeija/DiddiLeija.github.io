@@ -40,7 +40,7 @@ On **March 2021**, I started to offer my work to my local community (planning we
 ****
 
 But then, something special happened on **May, 2021**: I started to use [GitHub](http://github.com/diddileija)! Since that, 
-I were growing, and growing, and growing. From **May 2021 to June 2021**, I've been collaborating with this external projects:
+I were growing, and growing, and growing. From **May 2021 to July 2021**, I've been collaborating with this external projects:
 
 - [pypa/pip](http://github.com/pypa/pip) \([View my contributions](https://github.com/pypa/pip/issues?q=author%3ADiddiLeija)\)
 
@@ -52,4 +52,5 @@ I also created this repos:
 
 ****
 
-**In the present day**, I have been looking for something new to do, and I'm open to any opportunity, locally and globally.
+**In the present day**, I have been looking for something new to do, and I'm open to any opportunity, locally and globally. Also, I'm giving maintainance to
+my existing repos.
