@@ -8,6 +8,8 @@ pip install PackageName
 
 ## Some of my public packages
 
+****
+
 ### aleat3
 
 ```python
@@ -30,6 +32,8 @@ but I don't think they deserve a special section.
 
 \([View this project on GitHub](http://github.com/diddileija/aleat3)\).
 
+****
+
 ### diddiparser
 
 ```python
@@ -45,6 +49,8 @@ d.run()
 **`diddiparser`** is a package intended to parse something called **"`DiddiScript`"** \(it is a language that I would like to develop\), and run it from Python.
 
 \([View this project on GitHub](http://github.com/diddileija/diddiparser)\).
+
+****
 
 ### text\_formatter
 
