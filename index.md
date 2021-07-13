@@ -1,7 +1,7 @@
 # Hello Internet, my name is DiddiLeija
 
 Hi, I am [@DiddiLeija](http://github.com/DiddiLeija), I'm a Python developer who is ready to
-share my strange ideas with the world!
+share strange ideas with the world!
 
 ```python
 print("Hello, I am DiddiLeija.")
