@@ -18,6 +18,7 @@ my "general" programmer story, not about my GitHub profile \(for that, go [here]
   - C++
   - HTML
   - SQL
+  - YAML \(Personally, I consider `yaml` as a serialization format, but I'll add it\)
 
 ## \(Real\) languages that I use for programming
 
@@ -41,3 +42,9 @@ _In order of usage_:
 2. **GUIs**. I make GUIs for my local community \(to help their jobs\).
 3. **Databases**. I don't like them, but my community needs databases for their jobs.
 4. **Web programming**. I create personal projects with JavaScript or just HTMLs.
+
+## Organizations
+
+Those organizations where I've collaborated, and how did I help them.
+
+- **[@pypa](http://github.com/pypa)**: I helped them with [`pip`](http://github.com/pypa/pip) on [trivial changes](https://github.com/pypa/pip/issues?q=author%3ADiddiLeija) and giving attention to some issues from the users.
