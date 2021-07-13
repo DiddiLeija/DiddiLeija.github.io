@@ -1,7 +1,7 @@
 # My programmer profile (or something like that)
 
 It is a bit complicated to make me fit into a simple, short profile. Anyway, I am talking about
-my "general" programmer story, not about GitHub profile \(for that, go [here](http://github.com/diddileija)\).
+my "general" programmer story, not about my GitHub profile \(for that, go [here](http://github.com/diddileija)\).
 
 ## Programming languages
 
@@ -37,7 +37,7 @@ Those that I use, _in order of preference_:
 
 _In order of usage_:
 
-1. **Packaging**. I am currently working to find a way to improve my existing packages.
+1. **Packaging**. I am currently working to find a way to improve [my existing packages around GitHub](http://github.com/DiddiLeija?tab=repositories).
 2. **GUIs**. I make GUIs for my local community \(to help their jobs\).
 3. **Databases**. I don't like them, but my community needs databases for their jobs.
 4. **Web programming**. I create personal projects with JavaScript or just HTMLs.
