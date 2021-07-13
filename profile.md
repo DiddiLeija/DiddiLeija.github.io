@@ -47,4 +47,4 @@ _In order of usage_:
 
 Those organizations where I've collaborated, and how did I help them.
 
-- **[@pypa](http://github.com/pypa)**: I helped them with [`pip`](http://github.com/pypa/pip) on [trivial changes](https://github.com/pypa/pip/issues?q=author%3ADiddiLeija) and giving attention to some issues from the users.
+- **[@pypa](http://github.com/pypa)**: I helped them with [`pip`](http://pip.pypa.io) on [trivial changes](https://github.com/pypa/pip/issues?q=author%3ADiddiLeija) and giving attention to some issues from the users.
