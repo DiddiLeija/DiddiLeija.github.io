@@ -81,4 +81,4 @@ simple functions and submodules. It's still on development, so feel free to take
 
 \([View this project on GitHub](http://github.com/diddileija/text_formatter) or see the [ReadTheDocs documentation site](http://text-formatter.readthedocs.io)\).
 
-# <[Go back to the menu](http://diddileija.github.io)>
+## \([Go back to the menu](http://diddileija.github.io)\)
