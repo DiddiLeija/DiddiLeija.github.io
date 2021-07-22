@@ -6,8 +6,8 @@ build something cool to describe myself.
 
 ## The Jekyll theme
 
-I want to use the Jekyll theme [`hacker`](http://github.com/pages-themes/hacker)
-to give my personallity to my custom page, you know...
+I am using the Jekyll theme [`hacker`](http://github.com/pages-themes/hacker) from the standard `pages-themes`
+to give my dark, elegant personallity to my custom page, you know...
 
 ## Improvements
 
