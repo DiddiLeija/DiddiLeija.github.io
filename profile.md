@@ -47,4 +47,6 @@ _In order of usage_:
 
 Those organizations where I've collaborated, and how did I help them.
 
-- **[@pypa](http://github.com/pypa)**: I helped them with [`pip`](http://pip.pypa.io) on [trivial changes](https://github.com/pypa/pip/issues?q=author%3ADiddiLeija) and giving attention to some issues from the users.
+- **[@pypa](http://github.com/pypa)**: I helped them with [`pip`](http://pip.pypa.io) on [trivial changes](https://github.com/pypa/pip/issues?q=author%3ADiddiLeija) and giving attention to some issues from the users. I actually have a triage permission, which is really special for me.
+
+- **[@enthought](http://github.com/enthought)**: I were helping them with [`pyface`](http://github.com/enthought/pyface) on a deprecation job, and I'm planning to help them with [`traitsui`](http://github.com/enthought/traitsui).
