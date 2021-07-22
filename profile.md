@@ -50,3 +50,5 @@ Those organizations where I've collaborated, and how did I help them.
 - **[@pypa](http://github.com/pypa)**: I helped them with [`pip`](http://pip.pypa.io) on [trivial changes](https://github.com/pypa/pip/issues?q=author%3ADiddiLeija) and giving attention to some issues from the users. Recently, I gained a triage privilege, which is really, _really_ special for me. I think [@pypa](http://github.com/pypa) has contributed on my programmer progress.
 
 - **[@enthought](http://github.com/enthought)**: I were helping them with [`pyface`](http://github.com/enthought/pyface) on a deprecation job, and I'm planning to help them with [`traitsui`](http://github.com/enthought/traitsui).
+
+# <[Go back to the menu](http://diddileija.github.io)>
