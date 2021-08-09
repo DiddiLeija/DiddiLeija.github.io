@@ -40,16 +40,21 @@ On **March 2021**, I started to offer my work to my local community (planning we
 ****
 
 But then, something special happened on **May, 2021**: I started to use [GitHub](http://github.com/diddileija)! Since that, 
-I were growing, and growing, and growing. From **May 2021 to July 2021**, I've been collaborating with this external projects:
+I were growing, and growing, and growing. From **May 2021 to August 2021**, I've been collaborating with this external projects:
 
 - [enthought/pyface](http://github.com/enthought/pyface)
 - [pypa/pip](http://github.com/pypa/pip) \([View my contributions](https://github.com/pypa/pip/issues?q=author%3ADiddiLeija)\)
+- [enthought/traitsui](http://github.com/enthought/traitsui)
 
 I also created this repos:
 
 - [DiddiParser](http://github.com/diddileija/diddiparser)
 - [text_formatter](http://github.com/diddileija/text_formatter)
 - [DiddiLeija.github.io](http://github.com/diddileija/diddileija.github.io) \(The source code for this page\)
+
+****
+
+On **August, 2021**, I uploaded a local project for the first time: [´Control de Agua´](http://github.com/ControlDeAgua/ControlDeAgua).
 
 ****
 
