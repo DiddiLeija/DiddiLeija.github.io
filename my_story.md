@@ -54,7 +54,7 @@ I also created this repos:
 
 ****
 
-On **August, 2021**, I uploaded a local project for the first time: [´Control de Agua´](http://github.com/ControlDeAgua/ControlDeAgua).
+On **August, 2021**, I uploaded a local project for the first time: [`Control de Agua`](http://github.com/ControlDeAgua/ControlDeAgua).
 
 ****
 
