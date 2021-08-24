@@ -54,11 +54,16 @@ I also created this repos:
 
 ****
 
-On **August, 2021**, I uploaded a local project for the first time: [`Control de Agua`](http://github.com/ControlDeAgua/ControlDeAgua).
+On **August, 2021**, I uploaded a local project for the first time: [`Control de Agua`](http://github.com/ControlDeAgua/ControlDeAgua). Then, I went
+into a [@pypa](http://github.com/pypa). I also started to contribute on:
+
+- [theacodes/nox](http://github.com/theacodes/nox)
 
 ****
 
 **In the present day**, I have been looking for something new to do, and I'm open to any opportunity, locally and globally. Also, I'm giving maintainance to
-my existing repos.
+my previous projects and collaborating with the repos mentioned above.
+
+****
 
 ## \([Go back to the menu](http://diddileija.github.io)\)
