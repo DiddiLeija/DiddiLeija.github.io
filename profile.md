@@ -47,4 +47,6 @@ Those organizations where I've collaborated, and how did I help them.
 
 - **[@enthought](http://github.com/enthought)**: I were helping them with [`pyface`](http://github.com/enthought/pyface) on a deprecation job, and I'm planning to help them with [`traitsui`](http://github.com/enthought/traitsui).
 
+****
+
 ## \([Go back to the menu](http://diddileija.github.io)\)
