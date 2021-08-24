@@ -7,14 +7,13 @@ my "general" programmer story, not about my GitHub profile \(for that, go [here]
 
 - My first programming language: **Pascal**. Yeah, this obsolete language is, officially, my first programming language.
 - My favorite programming language: **Python**. Of course that I love Python!
-- The hardest language \(for me\): **JavaScript**. JavaScript is hard for me when I use it on HTMLs \(without the amazing _Node.js_\).
+- The hardest language \(for me\): **JavaScript**. JavaScript is hard for me when I use it on HTMLs \(without the amazing _Node.js_ tool\).
 - The most unused language for me: **Pascal**. I just used it for something more than 2 months, and then I forgot it.
 - All the languages I can use:
   - Python
   - Pascal
   - Java
   - JavaScript
-  - C
   - C++ (I'm learning C++ _right now!_)
 
 ## \(Real\) languages that I use for programming
