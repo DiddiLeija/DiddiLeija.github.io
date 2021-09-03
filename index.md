@@ -1,6 +1,10 @@
 # Hello Internet, my name is DiddiLeija
 
-![Diddi's Image](https://diddileija.github.io/Diddi2.png)
+----
+
+![Diddi's Image](https://diddileija.github.io/diddi2.png)
+
+----
 
 Hi, I am [@DiddiLeija](https://github.com/DiddiLeija), I’m a Python developer who is ready to
 share strange ideas with the world!
