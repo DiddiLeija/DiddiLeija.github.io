@@ -2,7 +2,7 @@
 
 ----
 
-![Diddi's Image](https://diddileija.github.io/diddi2.png)
+![Diddi's Image](https://diddileija.github.io/Diddi2.png)
 
 ----
 
