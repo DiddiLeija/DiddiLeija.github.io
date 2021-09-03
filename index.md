@@ -1,4 +1,4 @@
-![Diddi's Image](https://diddileija.github.io/Diddi2.PNG)
+![Diddi's Image](https://diddileija.github.io/Diddi2.png)
 
 # Hello Internet, my name is DiddiLeija
 
