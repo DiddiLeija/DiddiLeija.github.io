@@ -23,14 +23,14 @@ Find good pages about me, on a “more personal” level than the GitHub profile
 
 (If you want a “more general” profile, go to my [GitHub profile](http://github.com/DiddiLeija)).
 
-## Fact: Why _"DiddiLeija"_?
+## Fact: Why `DiddiLeija`?
 
-Some people may ask: "What is 'Diddi'?", "Why are you using an image of a masked person?" I'll give you the answers now.
+Some people may ask: _"What is 'Diddi'?", "Why are you using an image of a masked person?"_, and _"Where does 'DiddiLeija' come from?"_ I'll give you the answers now.
 
 I love programming, but I also like drawing: I like to draw and write comics. 
 
 One of my characters is named `Diddi`. He wears
-a dark mask, black suit. On my comics, Diddi is a digital hero from the future, that hides himself from the rest of the people by using
+a dark mask, black suit and a green backpack. On my comics, Diddi is a digital hero from the future, that hides himself from the rest of the people by using
 a metal mask. I have to admit it: _I loved Diddi from the first time._
 
 So, when I started to share code with the world, I decided to take the name, and I made some changes to it (I added "Leija", which is a spanish surname).
