@@ -23,15 +23,19 @@ Find good pages about me, on a “more personal” level than the GitHub profile
 
 (If you want a “more general” profile, go to my [GitHub profile](http://github.com/DiddiLeija)).
 
-## Why "DiddiLeija"?
+## Fact: Why _"DiddiLeija"_?
 
 What is "Diddi"? Why are you using an image of a masked person? I'll give you the answer.
 
-I love programming, but I also like drawing: I like to write comics. One of my characters is named "Diddi" and wears
-a dark mask, black suit. On my comics, Diddi is a digital hero, that hides himself from the rest of the people. I have to
-admit it: I loved Diddi.
+I love programming, but I also like drawing: I like to draw and write comics. 
 
-So, when I started to share code with the world, I decided to take the same name, and I made some changes (I added the second name "Leija").
-After that, "DiddiLeija" appears...
+One of my characters is named `Diddi`. He wears
+a dark mask, black suit. On my comics, Diddi is a digital hero from the future, that hides himself from the rest of the people by using
+a metal mask. I have to admit it: _I loved Diddi from the first time._
 
-To keep the personality of Diddi, I selected the Jekyll theme `hacker` for my website. Now, I think you'll understand more things about me and this site, right?
+So, when I started to share code with the world, I decided to take the name, and I made some changes to it (I added "Leija", which is a spanish surname).
+After that, "DiddiLeija" appears... To keep the personality of Diddi, I selected the Jekyll theme `hacker` for my website.
+
+Now, I think you'll understand more things about me and this site, right?
+
+----
