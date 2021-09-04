@@ -25,7 +25,7 @@ Find good pages about me, on a “more personal” level than the GitHub profile
 
 ## Fact: Why _"DiddiLeija"_?
 
-What is "Diddi"? Why are you using an image of a masked person? I'll give you the answer.
+Some people may ask: "What is 'Diddi'?", "Why are you using an image of a masked person?" I'll give you the answers now.
 
 I love programming, but I also like drawing: I like to draw and write comics. 
 
