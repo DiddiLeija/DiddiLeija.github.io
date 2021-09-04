@@ -23,7 +23,7 @@ Find good pages about me, on a “more personal” level than the GitHub profile
 
 (If you want a “more general” profile, go to my [GitHub profile](http://github.com/DiddiLeija)).
 
-## Fact: Why `DiddiLeija`?
+## Fact: _Why "DiddiLeija"?_
 
 Some people may ask: _"What is 'Diddi'?", "Why are you using an image of a masked person?"_, and _"Where does 'DiddiLeija' come from?"_ I'll give you the answers now.
 
