@@ -9,7 +9,7 @@ print("Hello, I am DiddiLeija.")
 
 ----
 
-![Diddi's Giant Image](https://diddileija.github.io/Diddi2.png)
+![Diddi's Giant Image](https://diddileija.github.io/Diddi3.png)
 
 ----
 
