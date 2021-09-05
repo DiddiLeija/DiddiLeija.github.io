@@ -58,6 +58,7 @@ On **August, 2021**, I uploaded a local project for the first time: [`Control de
 into a [@pypa](http://github.com/pypa) member!**. I also started to contribute on:
 
 - [theacodes/nox](http://github.com/theacodes/nox)
+- [pypa/warehouse](http://github.com/pypa/warehouse)
 
 ****
 
