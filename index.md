@@ -21,8 +21,8 @@ Find good pages about me, on a “more personal” level than the GitHub profile
 - [My programming profile](http://diddileija.github.io/profile). Read a short document about the things I use.
 - [My Python packages](http://diddileija.github.io/py_packages). Read about some of my uploaded Python packages.
 
-Also, I'm adding some of my projects (that deserve a specific place):
-- [`dirty-experiments`](http://diddileija.github.io/dirty_experiments): Miscellaneous experiments of programming
+Also, find pages on my [projects section](http://diddileija.github.io/projects):
+- [`dirty-experiments`](http://diddileija.github.io/projects/dirty_experiments): Miscellaneous experiments of programming
 
 (If you want a “more general” profile, go to my [GitHub profile](http://github.com/DiddiLeija)).
 
