@@ -1,3 +1,5 @@
 # use the "hacker" Jekyll theme from pages-themes:
 # http://github.com/pages-themes/hacker
 theme: jekyll-theme-hacker
+title: @DiddiLeija's website
+description: My personal website.
