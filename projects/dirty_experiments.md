@@ -12,18 +12,19 @@ _Join me on this programming adventure!_
 
 ----
 
-**Project information**
+If you want to jump into this repository, go [right here](http://github.com/DiddiLeija/dirty-experiments).
+
+To go back to my website, go [to the main menu](http://diddileija.github.io).
+
+----
+
+## Project information
+
 - **Name**: _`dirty-experiments`_
 - **Programming languages**:
   - Python
   - JavaScript
   - C++
 - **Releases**: None
-
-----
-
-If you want to jump into this repository, go [right here](http://github.com/DiddiLeija/dirty-experiments).
-
-To go back to my website, go [to the main menu](http://diddileija.github.io).
 
 ----
