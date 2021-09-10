@@ -29,7 +29,7 @@ Find good pages about me, on a “more personal” level than the GitHub profile
 
 ### [Articles](http://diddileija.github.io/articles/)
 
-None yet.
+- [Creating standalone Windows executables from Python code, using `cx_Freeze`](http://diddileija.github.io/articles/article-01)
 
 ----
 
