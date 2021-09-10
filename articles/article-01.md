@@ -1,5 +1,9 @@
 # Creating standalone Windows executables from Python code, using `cx_Freeze`
 
+- **Article type**: Tutorial
+- **OS needed**: Windows
+- **Programming language**: Python
+
 ## Overview
 
 Python is a great programming language. It is light-weight, fast, and flexible. But, in most of the cases, you have to install
@@ -146,4 +150,9 @@ and some DLLs (_don't touch them!_).
 ## Transporting your executable
 
 You only have to move the `build` folder. SInce you create the `.exe` files, you won't need a Python installation to
-enjoy your apps!
+enjoy your apps, so you can share the code to more Windows users!
+
+----
+
+And this is where this article ends. I hope you like it, and maybe share this with more people. To go back to the main page of my
+website, press [here](http://DiddiLeija.github.io).
