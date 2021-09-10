@@ -154,5 +154,5 @@ enjoy your apps, so you can share the code to more Windows users!
 
 ----
 
-And this is where this article ends. I hope you like it, and maybe share this with more people. To go back to the main page of my
+And this is where the article ends. I hope you like it, and maybe share this with more people. To go back to the main page of my
 website, press [here](http://DiddiLeija.github.io).
