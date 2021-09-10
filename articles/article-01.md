@@ -58,7 +58,7 @@ print(f"\nHello {name}!")
 
 ## Write a `cx_Freeze` setup file
 
-```
+```python
 # setup.py - cx_Freeze setup file
 
 import sys
