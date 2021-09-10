@@ -20,11 +20,11 @@ To go back to my website, go [to the main menu](http://diddileija.github.io).
 
 ## Project information
 
-- **Name**: _`dirty-experiments`_
+- **Name**: `dirty-experiments`
 - **Programming languages**:
   - Python
   - JavaScript
   - C++
-- **Releases**: None
+- **Releases**: _None_
 
 ----
