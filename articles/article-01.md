@@ -157,11 +157,11 @@ and some DLLs (_don't touch them! They are essential for the executables_).
 
 ## Transporting your executable
 
-You only have to move the `build` folder. SInce you create the `.exe` files, you won't need a Python installation to
+You only have to move the `build` folder. Since you create the `.exe` files, you won't need a Python installation to
 enjoy your apps, so you can share the code to more Windows users!
 
-If the computer has installed Python, the executable will take the native Python library, instead of its own library
-(take a look on that!).
+_Note:_ If the computer where you run the executables has installed Python, the executable will take
+the native Python library, instead of its own library (take a look on that!).
 
 ----
 
