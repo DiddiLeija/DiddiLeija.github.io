@@ -23,12 +23,16 @@ Find good pages about me, on a “more personal” level than the GitHub profile
 
 (If you want a “more general” profile, go to my [GitHub profile](http://github.com/DiddiLeija)).
 
+----
+
 ### Pages on my [projects section](http://diddileija.github.io/projects/)
 
 - [`dirty-experiments`](http://diddileija.github.io/projects/dirty_experiments): Miscellaneous experiments of programming
 
-### My [articles](http://diddileija.github.io/articles/)
+----
 
-- [Creating standalone Windows executables from Python code, using `cx_Freeze`](http://diddileija.github.io/articles/article-01)
+### My [articles](http://diddileija.github.io/articles/) section
+
+- [1. Creating standalone Windows executables from Python code, using `cx_Freeze`](http://diddileija.github.io/articles/article-01)
 
 ----
