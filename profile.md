@@ -49,4 +49,21 @@ Those organizations where I've collaborated, and how did I help them.
 
 ****
 
+## Fact: _Why "DiddiLeija"?_
+
+Some people may ask: _"What is 'Diddi'?", "Why are you using an image of a masked person?"_, and _"Where does 'DiddiLeija' come from?"_ I'll give you the answers now.
+
+I love programming, but I also like drawing: I like to draw and write comics. 
+
+One of my characters is named `Diddi`. He wears
+a dark mask, black suit and a green backpack. On my comics, Diddi is a digital hero from the future, that hides himself from the rest of the people by using
+a metal mask. I have to admit it: _I loved Diddi from the first time._
+
+So, when I started to share code with the world, I decided to take the name, and I made some changes to it (I added "Leija", which is a spanish surname).
+After that, "DiddiLeija" appears... To keep the personality of Diddi, I selected the Jekyll theme `hacker` for my website.
+
+Now, I think you'll understand more things about me and this site, right?
+
+****
+
 ## \([Go back to the menu](http://diddileija.github.io)\)
