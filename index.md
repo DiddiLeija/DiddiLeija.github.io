@@ -33,6 +33,6 @@ Find good pages about me, on a “more personal” level than the GitHub profile
 
 ### My [articles](http://diddileija.github.io/articles/) section
 
-- 1- [Creating standalone Windows executables from Python code, using `cx_Freeze`](http://diddileija.github.io/articles/article-01)
+- [1. Creating standalone Windows executables from Python code, using `cx_Freeze`](http://diddileija.github.io/articles/article-01)
 
 ----
