@@ -1,4 +1,4 @@
-# Why you shouldn't install Python from the Microsoft Store?
+# Why you shouldn't install Python from the Microsoft Store if you want to do advanced code?
 
 - **Article type**: Informative article
 - **OS needed**: Windows (with Microsoft Store installed)
