@@ -62,7 +62,8 @@ Let's stop here for now. Now let's decide.
 Python is awesome. I prefer using it on most of my projects. However, I don't consider you should install it from the Microsoft Store, unless you get adapted to these
 issues. I don't want to discredit that installer, but I personally prefer the `Python.org` installer, if you want to write advanced code :)
 
-If you disagree with this article, please [send me an email](mailto:dr01191115@gmail.com) to explain yourself.
+Anyway, it is the most confortable option to install Python, and it works fine with simple code. But if you want to jump into a higher level, I recommend you to get Python
+from somewhere else.
 
 ----
 
