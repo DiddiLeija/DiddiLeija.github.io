@@ -4,8 +4,7 @@
 - **OS needed**: Windows (with Microsoft Store installed)
 - **Programming language**: Python
 
-_(References: [pypa/pip#10433](https://github.com/pypa/pip/issues/10433),_
-_and [an article from `dev.to`](https://dev.to/naruaika/why-i-didn-t-install-python-from-the-microsoft-store-5cbd), where I got most of the information)_.
+_(Based on [an article from `dev.to`](https://dev.to/naruaika/why-i-didn-t-install-python-from-the-microsoft-store-5cbd))_.
 
 ## Overview
 
