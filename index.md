@@ -34,6 +34,6 @@ Find good pages about me, on a “more personal” level than the GitHub profile
 ### My [articles](http://diddileija.github.io/articles/) section
 
 - [1. Creating standalone Windows executables from Python code, using `cx_Freeze`](http://diddileija.github.io/articles/article-01)
-- [2. Why you shouldn't install Python from the Microsoft Store?](http://diddileija.github.io/articles/article-02)
+- [2. Why you shouldn't install Python from the Microsoft Store if you want to do advanced code?](http://diddileija.github.io/articles/article-02)
 
 ----
