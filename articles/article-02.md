@@ -12,12 +12,12 @@ Microsoft has provided its own store, with the hope that most of the Windows use
 a Python distribution. Many users install Python from there. However, most of the Python maintainers recommend to install Python from [Python.org](https://python.org).
 
 At this point, you'll probably ask: "Where is the difference? Why I shouldn't install Python from the Microsoft Store?". On this article, we will dive into this
-theme.
+theme. I installed Python from the Microsoft Store, and I were looking for information from other people who tried it.
 
 ## The difference
 
 I'm still not sure why, but the Python installer from the Microsoft Store works a bit different than the one from [Python.org](https://python.org/downloads). It seems like
-the Microsoft Store Python installer messes up the paths, so the code could not work fine.
+the Microsoft Store Python installer messes up the paths, so the advanced code (console scripts, path manipulation) could not work fine.
 
 Most of the issues I listed here, are related to the path differences: The Microsoft Store installer selected a different path to store the programs.
 
@@ -53,17 +53,18 @@ C:/Users/Diego Ramirez>pip install --upgrade pip
   Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
 ```
 
-Pip gets confused with the different paths, and that could affect you.
+Pip gets confused with the different paths, and that could affect you. Also, this pip installation contains more executables: `pip39` and `pip3`, which reported
+some weird behavior recently (even when it should do the same than `pip`).
 
 ## My resolution
 
 Let's stop here for now. Now let's decide.
 
 Python is awesome. I prefer using it on most of my projects. However, I don't consider you should install it from the Microsoft Store, unless you get adapted to these
-issues. I don't want to discredit that installer, but I personally prefer the `Python.org` installer, if you want to write advanced code :)
+issues. I don't want to discredit that installer, but I personally prefer the `Python.org` installer, if you want to write advanced code.
 
-Anyway, it is the most confortable option to install Python, and it works fine with simple code. But if you want to jump into a higher level, I recommend you to get Python
-from somewhere else.
+Anyway, it is the most confortable option to install Python, and it works fine with simple code and student experiments. But if you want to jump into a higher level, I 
+recommend you to get Python from somewhere else :)
 
 ----
 
