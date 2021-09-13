@@ -59,7 +59,7 @@ That happens with many other popular modules.
 
 On Python 2, all the strings are used like bytes, even when Unicode strngs are supported:
 
-```
+```python
 # try it with 3 strings
 >>>s = "abcdef"
 >>>b = b"abcdef"
@@ -75,7 +75,7 @@ b"abcdef"
 
 But in Python 3, the strings have UTF-8 encoding by default:
 
-```
+```python
 # try it with 3 strings
 >>>s = "abcdef"
 >>>b = b"abcdef"
