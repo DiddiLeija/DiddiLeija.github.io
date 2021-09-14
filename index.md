@@ -27,11 +27,15 @@ Find good pages about me, on a “more personal” level than the GitHub profile
 
 ### Pages on my [projects section](http://diddileija.github.io/projects/)
 
+Projects that deserve a separate page:
+
 - [`dirty-experiments`](http://diddileija.github.io/projects/dirty_experiments): Miscellaneous experiments of programming
 
 ----
 
 ### My [articles](http://diddileija.github.io/articles/) section
+
+Articles that I wrote just for you:
 
 - [1. Creating standalone Windows executables from Python code, using `cx_Freeze`](http://diddileija.github.io/articles/article-01)
 - [2. Why you shouldn't install Python from the Microsoft Store if you want to do advanced code?](http://diddileija.github.io/articles/article-02)
