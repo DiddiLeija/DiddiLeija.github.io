@@ -45,7 +45,7 @@ Those organizations where I've collaborated, and how did I help them.
 
 - **[@pypa](http://github.com/pypa)**: Actually, I am a PyPA member. I am collaborating with [`pip`](http://pip.pypa.io) on [trivial changes](https://github.com/pypa/pip/issues?q=author%3ADiddiLeija) and I were giving attention to some issues from the users. I think [@pypa](http://github.com/pypa) has strongly contributed to my programming progress. Now, I'm helping with some other [@pypa](http://github.com/pypa) repositories.
 
-- **[@enthought](http://github.com/enthought)**: I were helping them with [`pyface`](http://github.com/enthought/pyface) on a deprecation job, and I'm planning to help them with [`traitsui`](http://github.com/enthought/traitsui).
+- **[@enthought](http://github.com/enthought)**: I were helping them with [`pyface`](http://github.com/enthought/pyface) and [`traitsui`](http://github.com/enthought/traitsui).
 
 ****
 
