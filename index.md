@@ -40,5 +40,6 @@ Articles that I wrote just for you:
 - [1. Creating standalone Windows executables from Python code, using `cx_Freeze`](http://diddileija.github.io/articles/article-01)
 - [2. Why you shouldn't install Python from the Microsoft Store if you want to do advanced code?](http://diddileija.github.io/articles/article-02)
 - [3. Jumping from Python 2 to Python 3](http://diddileija.github.io/articles/article-03)
+- [4. Using `nox` to automate your tests](http://diddileija.github.io/articles/article-04)
 
 ----
