@@ -54,11 +54,14 @@ I also created this repos:
 
 ****
 
-On **August, 2021**, I uploaded a local project for the first time: [`Control de Agua`](http://github.com/ControlDeAgua/ControlDeAgua). Then, **I went
+From **August, 2021 to September, 2021**, I uploaded a local project for the first time: [`Control de Agua`](http://github.com/ControlDeAgua/ControlDeAgua). Then, **I went
 into a [@pypa](http://github.com/pypa) member!**. I also started to contribute on:
 
 - [theacodes/nox](http://github.com/theacodes/nox)
 - [pypa/warehouse](http://github.com/pypa/warehouse)
+- [pypa/setuptools](http://github.com/pypa/setuptools)
+
+I was also uploading new repositories.
 
 ****
 
