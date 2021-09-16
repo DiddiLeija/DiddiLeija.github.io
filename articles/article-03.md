@@ -1,3 +1,5 @@
+![Diddi Jumping from a "2" to a "3"](http://DiddiLeija.github.io/articles/images/From-2-to-3.png)
+
 # Jumping from Python 2 to Python 3
 
 - **Article type**: Informative article
