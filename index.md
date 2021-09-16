@@ -43,3 +43,5 @@ Articles that I wrote just for you:
 - [4. Using `nox` to automate your tests](http://diddileija.github.io/articles/article-04)
 
 ----
+
+This site (and its components) has a [MIT license](http://diddileija.github.io/license).
