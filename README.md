@@ -14,3 +14,7 @@ to give my dark, elegant personallity to my custom page, you know...
 As I'm getting new to GitHub pages, I might do glitchy things and something like that :sweat_smile:, so if you find
 somewhere I can improve my site, please tell me via an [issue](http://github.com/diddileija/diddileija.github.io/issues)
 or a [pull request](http://github.com/diddileija/diddileija.github.io/pulls).
+
+## License
+
+See it on [GitHub](http://github.com/DiddiLeija/DiddiLeija.github.io/blob/main/LICENSE) or directly from the [website](http://diddileija.github.io/license_notice).
