@@ -66,8 +66,6 @@ After that, "DiddiLeija" appears... To keep the personality of Diddi, I selected
 
 Now, I think you'll understand more things about me and this site, right?
 
-![Diddi Sketch No. 14](http://DiddiLeija.github.io/Diddi-Drawing-14.png)
-
 ****
 
 ## \([Go back to the menu](http://diddileija.github.io)\)
