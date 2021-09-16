@@ -44,4 +44,4 @@ Articles that I wrote just for you:
 
 ----
 
-This site (and its components) has a [MIT license](http://diddileija.github.io/license).
+This site (and its components) has a [MIT license](http://diddileija.github.io/license_notice).
