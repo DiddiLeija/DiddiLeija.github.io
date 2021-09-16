@@ -1,3 +1,9 @@
+<!---
+The image is based on the Nox logo from the official documentation
+(http://nox.thea.codes).
+--->
+![Diddi and Nox](http://DiddiLeija.github.io/articles/images/Diddi-and-Nox.png)
+
 # Using `nox` to automate your tests
 
 - **Article type**: Tutorial

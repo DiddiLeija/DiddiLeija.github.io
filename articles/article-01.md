@@ -1,3 +1,5 @@
+![Diddi Freezing Python](http://DiddiLeija.github.io/articles/images/Diddi-Freezing-Python.png)
+
 # Creating standalone Windows executables from Python code, using `cx_Freeze`
 
 - **Article type**: Tutorial
