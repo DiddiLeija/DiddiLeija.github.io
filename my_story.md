@@ -60,7 +60,7 @@ into a [@pypa](http://github.com/pypa) member!**. I also started to contribute o
 - [theacodes/nox](http://github.com/theacodes/nox)
 - [pypa/warehouse](http://github.com/pypa/warehouse)
 - [pypa/setuptools](http://github.com/pypa/setuptools)
-- [adambard/learnxinyminutes-docs](http://github.com/adambard/learnxinyminutes-docs) (The documents behind http://learnxinyminutes.com)
+- [adambard/learnxinyminutes-docs](http://github.com/adambard/learnxinyminutes-docs) (The documents behind [learnxinyminutes.com](http://learnxinyminutes.com))
 
 I was also uploading new repositories.
 
