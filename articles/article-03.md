@@ -90,6 +90,14 @@ b"abcdef"
 
 You don't actually have to create u-strings!
 
+# What do I have to do?
+
+The best thing you can do now, is forget Python 2 and directly jump into Python 3 (At this point, consider Python 3.7 to 3.10). This will
+require a great effort, but it will be the best.
+
+Or, in the case that you need it, try not to get the newest releases of popular packages, because you will have trouble! However, this
+is not so efficient in the practice...
+
 ----
 
 And this is where the article ends. I hope you like it, and maybe share this with more people. To go back to the main page of my
