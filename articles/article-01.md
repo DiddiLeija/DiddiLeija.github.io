@@ -165,6 +165,11 @@ enjoy your apps, so you can share the code to more Windows users!
 _Note:_ If the computer where you run the executables has installed Python, the executable will take
 the native Python library, instead of its own library (take a look on that!).
 
+## Next steps
+
+If you want to learn more `cx_Freeze` options, or how to freeze Python files with other platform, go to the [`cx_Freeze` documentation](https://cx-freeze.readthedocs.io) or
+visit the [GitHub repository](https://github.com/marcelotduarte/cx_freeze).
+
 ----
 
 And this is where the article ends. I hope you like it, and maybe share this with more people. To go back to the main page of my
