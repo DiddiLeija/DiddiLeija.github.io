@@ -111,7 +111,7 @@ nox
 You don't even have to install `pytest` or `flake8`!
 
 `nox` can be used on many other ways, or even on a higher way, but this is the most simple example I can post (he he he...). If you want
-to get more, I recommend you to dive into the [Nox documentation](http://nox.thea.codes).
+to get more, I recommend you to dive into the [Nox documentation](http://nox.thea.codes), or the [Nox tutorial](http://nox.thea.codes/en/latest/tutorial.html).
 
 ----
 
