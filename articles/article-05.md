@@ -52,7 +52,8 @@ This OS was developed by [Apple Inc.](http://apple.com). Its latest version is n
 
 ## Linux
 
-Many of the Linux flavors are maintained by many organizations. The kernel was created by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds).
+Many of the Linux flavors (Ubuntu, CentOS, Debian, and much more) are maintained by many organizations.
+The kernel was created by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds).
 When we say "Linux", we are refering to the group of operative systems based on that kernel.
 
 ### Linux pros
