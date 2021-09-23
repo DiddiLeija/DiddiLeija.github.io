@@ -1,3 +1,5 @@
+![Diddi and 3 OS](http://DiddiLeija.github.io/articles/images/Diddi-And-3-OS.png)
+
 # Comparating the most popular Operative Systems of our days
 
 - **Article type**: Informative article
