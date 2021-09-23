@@ -110,8 +110,14 @@ nox
 
 You don't even have to install `pytest` or `flake8`!
 
-`nox` can be used on many other ways, or even on a higher way, but this is the most simple example I can post (he he he...). If you want
-to get more, I recommend you to dive into the [Nox documentation](http://nox.thea.codes), or the [Nox tutorial](http://nox.thea.codes/en/latest/tutorial.html).
+## Going into a higher place with `nox`
+
+You don't have limits when you use Nox... you can run code formatters, documentation builders, or even make
+a release using a single `noxfile.py`! You decide.
+
+However, this is the most simple example I can post (he he he...). If you want
+to get a complete explanation, I recommend you to dive into the [Nox documentation](http://nox.thea.codes),
+or the [Nox tutorial](http://nox.thea.codes/en/latest/tutorial.html).
 
 ----
 
