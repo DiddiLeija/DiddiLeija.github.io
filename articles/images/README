@@ -2,6 +2,6 @@ articles/images
 ===============
 
 Folder to save the images used on articles. You shouldn't be able
-to open ``https://DiddiLeija.github.io/articles/images`` directly, because
+to open https://DiddiLeija.github.io/articles/images directly, because
 you need an ``index.md`` or ``index.html`` to view it. Instead, you
 will find a 404 error message.
