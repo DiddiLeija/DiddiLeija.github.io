@@ -19,4 +19,4 @@ or a [pull request](http://github.com/diddileija/diddileija.github.io/pulls).
 
 ## License
 
-See it on [GitHub](http://github.com/DiddiLeija/DiddiLeija.github.io/blob/main/LICENSE) or directly from the [website](http://diddileija.github.io/license_notice).
+See it on [GitHub](http://github.com/DiddiLeija/DiddiLeija.github.io/blob/main/LICENSE.txt) or directly from the [website](http://diddileija.github.io/license_notice).
