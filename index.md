@@ -30,6 +30,7 @@ Find good pages about me, on a “more personal” level than the GitHub profile
 Projects that deserve a separate page:
 
 - [`dirty-experiments`](http://diddileija.github.io/projects/dirty_experiments): Miscellaneous experiments of programming
+- [`DiddiOS`](http://diddileija.github.io/projects/diddios): A developer-friendly OS, based on Linux
 
 ----
 
