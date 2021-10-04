@@ -4,7 +4,7 @@ The image is based on the Nox logo from the official documentation
 --->
 ![Diddi and Nox](http://DiddiLeija.github.io/articles/images/Diddi-and-Nox.png)
 
-# Using `nox` to automate your tests
+# Using Nox to automate your tests
 
 - **Article type**: Tutorial
 - **OS needed**: Any
@@ -22,20 +22,20 @@ Sometimes, we want to use a lot of packages to test our code (for example: `flak
 `mypy`, `isort`... and others), but we don't want to run their commands, one by one... that's
 boring!
 
-Here is where `nox` enters. It is a Python tool to automate tests and linters. Personally, I really like it
+Here is where Nox enters. It is a Python tool to automate tests and linters. Personally, I really like it
 to run tests on personal projects. On this article, I would like to talk
 about this package, and how to set it up and run it. So let's begin.
 
-## Introducing `nox`
+## Introducing Nox
 
-`nox` is a Python package created by [Thea Flowers](http://thea.codes). You can get it using `pip`:
+Nox is a Python package created by [Thea Flowers](http://thea.codes). You can get it using [Pip](https://pip.pypa.io):
 
 ```
 pip install nox
 ```
 
-`nox` can help us to reduce steps to test the code. In most of the cases,
-if you use `nox`, you will only have to run one command to test everything:
+Nox can help us to reduce steps to test the code. In most of the cases,
+if you use it, you will only have to run one command to test everything:
 
 ```
 nox
@@ -43,8 +43,8 @@ nox
 
 _(Sometimes, you will have to provide some options, but that's all)._
 
-Another point in favor of `nox` is the setup file it uses: a Python file named `noxfile.py`. It is simple and flexible, so you can
-implement `nox` on (almost) every Python project you want!
+Another point in favor of Nox is the setup file it uses: a Python file named `noxfile.py`. It is simple and flexible, so you can
+implement Nox on (almost) every Python project you want!
 
 ## Write a `noxfile.py`
 
@@ -86,7 +86,7 @@ def lint(session):
 
 We have defined two sessions, `tests` and `lint` (actually the names doesn't matter). On each session, we use `session.install` (to install
 the packages to run tests on a virtualenv) and `session.run` (run some commands).
-On the example, we are telling `nox` to install `pytest` and `flake8`, to run tests and linters with them.
+On the example, we are telling Nox to install `pytest` and `flake8`, to run tests and linters with them.
 
 _Note:_ `@nox.session` accepts parameters, to customize the tests. See the reference [here](https://nox.thea.codes/en/stable/config.html#nox.session).
 
@@ -101,7 +101,7 @@ flake8 --import-order-style google
   ...
 ```
 
-we only have to run:
+we only have to run `nox`:
 
 ```
 nox
