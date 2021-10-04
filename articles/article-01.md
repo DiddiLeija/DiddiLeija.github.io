@@ -1,6 +1,6 @@
 ![Diddi Freezing Python](http://DiddiLeija.github.io/articles/images/Diddi-Freezing-Python.png)
 
-# Creating standalone Windows executables from Python code, using `cx_Freeze`
+# Creating standalone Windows executables from Python code, using cx\_Freeze
 
 - **Article type**: Tutorial
 - **OS needed**: Windows
@@ -15,15 +15,15 @@ So, you may ask: "Can we create Python applications that run without a Python in
 this, but let's talk about [cx\_Freeze](http://github.com/marcelotduarte/cx_Freeze), a Python package to "freeze" Python scripts into
 standalone executables.
 
-On this article, we'll talk about how to use `cx_Freeze` on Windows, to create portable `.exe` applications. To reproduce the instructions, you'll
+On this article, we'll talk about how to use cx\_Freeze on Windows, to create portable `.exe` applications. To reproduce the instructions, you'll
 need a Python installation on your Windows computer (the Python version should be 3.6 or newer).
 
-_NOTE:_ `cx_Freeze` also works excellent under macOS, Linux, or any other platform compatible with Python. However, this article only talks about
+_NOTE:_ cx\_Freeze also works excellent under macOS, Linux, or any other platform compatible with Python. However, this article only talks about
 how to use it on Windows, since the commands and the setup is different.
 
-## Getting `cx_Freeze` using Pip
+## Getting cx\_Freeze using Pip
 
-To install `cx_Freeze`, I recommend you to use [`pip`](http://pip.pypa.io), the standard package installer for Python:
+To install cx\_Freeze, I recommend you to use [`pip`](http://pip.pypa.io), the standard package installer for Python:
 
 ```
 pip install cx_Freeze
@@ -67,7 +67,7 @@ print(f"\nHello {name}!\n")
 getpass.getpass("Press Enter to exit... ")
 ```
 
-## Write a `cx_Freeze` setup file
+## Write a cx\_Freeze setup file
 
 ```python
 # setup.py - cx_Freeze setup file
@@ -94,11 +94,11 @@ executables from Python code, using cx_Freeze.""",
       executables=executables)
 ```
 
-`cx_Freeze` uses a `setup.py` file to build your executable. It provides a `setup()` function
+cx\_Freeze uses a `setup.py` file to build your executable. It provides a `setup()` function
 to specify how to do the conversion. In our example, we are going to convert the 2 Python files into 2
 executables.
 
-First, we have to import the `cx_Freeze` stuff we need. Also, we need the standard module `sys`:
+First, we have to import the cx\_Freeze stuff we need. Also, we need the standard module [`sys`](https://docs.python.org/3/library/sys.html):
 
 ```python
 import sys
@@ -107,7 +107,7 @@ from cx_Freeze import Executable, setup
 ```
 
 Now, before defining the executables to create, we are going to use a trick to delete the "console" on the
-GUI executable (that way, we'll only see the GUI). `cx_Freeze` handles some "bases", written on C, to modify
+GUI executable (that way, we'll only see the GUI). cx\_Freeze provided some "bases", written on C, to modify
 the aspect of our executable. We are going to look for "Win32GUI" (which makes just what we want):
 
 ```python
@@ -127,7 +127,7 @@ executables = [Executable("gui.py",
                           target_name="Command-line sample.exe")]
 ```
 
-FInally, we run a `setup()` function (commonly used on `setup.py` files):
+Finally, we run a `setup()` function (commonly used on `setup.py` files):
 
 ```python
 setup("Our cx_Freeze example",
@@ -167,7 +167,7 @@ the native Python library, instead of its own library (take a look on that!).
 
 ## Next steps
 
-If you want to learn more `cx_Freeze` options, or how to freeze Python files with other platform, go to the [`cx_Freeze` documentation](https://cx-freeze.readthedocs.io) or
+If you want to learn more cx\_Freeze options, or how to freeze Python files with other platform, go to the [cx\_Freeze documentation](https://cx-freeze.readthedocs.io) or
 visit the [GitHub repository](https://github.com/marcelotduarte/cx_freeze).
 
 ----
