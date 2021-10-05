@@ -90,7 +90,7 @@ On the example, we are telling Nox to install `pytest` and `flake8`, to run test
 
 _Note:_ `@nox.session` accepts parameters, to customize the tests. See the reference [here](https://nox.thea.codes/en/stable/config.html#nox.session).
 
-## Running `nox`
+## Running Nox
 
 On the example, we are reducing steps to run _exactly the same_. Instead of running:
 
@@ -101,7 +101,7 @@ flake8 --import-order-style google
   ...
 ```
 
-we only have to run `nox`:
+we only have to run the `nox` command:
 
 ```
 nox
@@ -110,7 +110,7 @@ nox
 
 You don't even have to install `pytest` or `flake8`!
 
-## Going into a higher place with `nox`
+## Going into a higher place
 
 You don't have limits when you use Nox... you can run code formatters, documentation builders, or even make
 a release using a single `noxfile.py`! You decide.
