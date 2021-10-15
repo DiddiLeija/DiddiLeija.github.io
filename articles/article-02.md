@@ -63,7 +63,8 @@ some weird behavior recently (even when it should do the same than `pip`).
 Let's stop here for now. Now let's decide.
 
 Python is awesome. I prefer using it on most of my projects. However, I don't consider you should install it from the Microsoft Store, unless you get adapted to these
-issues. I don't want to discredit that installer, but I personally prefer the `Python.org` installer, if you want to write advanced code.
+issues. I don't want to discredit that installer, but I personally prefer the `Python.org` installer, if you want to write advanced code. Even the
+[documentation](https://docs.python.org/3/using/windows.html#known-issues) warns about known issues of the MStore installer.
 
 Anyway, it is the most confortable option to install Python, and it works fine with simple code and student experiments. But if you want to jump into a higher level, I 
 recommend you to get Python from somewhere else :)
