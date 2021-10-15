@@ -68,7 +68,7 @@ many other popular modules.
 
 ### Default encoding for strings
 
-On Python 2, all the strings are used like bytes, even when Unicode strngs are supported:
+On Python 2, all the strings are used like bytes, even when Unicode strings are supported:
 
 ```python
 # try it with 3 strings
