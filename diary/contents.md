@@ -1,7 +1,9 @@
 # Contents of my diary
 
-Of course, I won't post a page for *each day*, but I will post special events for
-many days.
+**NOTE:** Of course, I won't post a page for *each day*, but I will post special events for
+many days. Also, don't expect me to advice a new page -- so stay alert!
+
+----
 
 ## Pages (ordered by day)
 
