@@ -24,6 +24,8 @@ Find good pages about me, on a “more personal” level than the GitHub profile
 
 (If you want a “more general” profile, go to my [GitHub profile](http://github.com/DiddiLeija)).
 
+Also, you can read my [programmer diary](https://diddileija.github.io/diary/contents)!
+
 ----
 
 ### Pages on my [projects section](http://diddileija.github.io/projects/)
