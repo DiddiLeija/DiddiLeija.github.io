@@ -7,4 +7,5 @@ many days. Also, don't expect me to advice a new page -- so stay alert!
 
 ## Pages (ordered by day)
 
+- [2021-10-29](https://diddileija.github.io/diary/2021-10-29)
 - [2021-10-28](https://diddileija.github.io/diary/2021-10-28)
