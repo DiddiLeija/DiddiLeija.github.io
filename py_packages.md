@@ -34,21 +34,22 @@ but I don't think they deserve a special section.
 
 ****
 
-### diddiparser
+### diddiparser2
 
 ```python
-from diddiparser.parser import DiddiScriptFile
+from diddiparser2.parser import DiddiParser
 
 # imagine you have a DiddiScript file named "hello_world.diddi"
-d = DiddiScriptFile("hello_world.diddi")
+d = DiddiParser("hello_world.diddi")
 
 # run the extracted code
-d.run()
+d.runfile()
 ```
 
-**`diddiparser`** is a package intended to parse something called **"`DiddiScript`"** \(it is a language that I would like to develop\), and run it from Python.
+**DiddiParser2** is a package intended to parse something called **"`DiddiScript`"** \(it is a language that I would like to develop\),
+and run it from Python or a CLI. You decide.
 
-\([View this project on GitHub](http://github.com/diddileija/diddiparser)\).
+\([View this project on GitHub](http://github.com/diddileija/diddiparser2), and read its documentation [on ReadTheDocs](http://diddiparser2.readthedocs.io)\).
 
 ****
 
