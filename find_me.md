@@ -31,7 +31,6 @@ communities:
 
 - [StackOverflow](https://stackoverflow.com/users/16246013/diego-ramirez), where I usually work on packaging questions
 - [Meta StackExchange](https://meta.stackexchange.com/users/1088069/diego-ramirez). I've been bookmarking insteresting questions on it.
-- [English Language and Usage](https://english.stackexchange.com/users/436678/diego-ramirez). I am an enthusiast of elegant english...
 - [Retrocomputing](https://retrocomputing.stackexchange.com/users/23203/diego-ramirez). I love the _Super Mario_ Saga. Specially, Super Mario 64.
 - [StackOverflow en español](https://es.stackoverflow.com/users/254650/diego-ramirez), where I answer questions in my native language, Spanish.
 
@@ -39,6 +38,10 @@ communities:
 
 I want to upload games on that platform. You can see my dedicated page [here](https://diddileija.itch.io/).
 
-## Of course, this site!
+## [Google Developers](https://developers.google.com/)
 
-This site exists to show my existence in the mighty universe...
+Yeah, I have a developer account on Google. See it [here](https://developers.google.com/profile/u/116698410132405877660).
+
+## Of course, [this site](https://DiddiLeija.github.io)!
+
+How to find it? Well, you are already on it... This site exists to show my existence in the mighty universe...
