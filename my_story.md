@@ -66,6 +66,10 @@ I was also uploading new repositories.
 
 ****
 
+At **November, 2021**, I discovered a new language for me: **Kotlin**. Then, I started to experiment with Android development! I also created new repos!
+
+****
+
 **In the present day**, I have been looking for something new to do, and I'm open to any opportunity, locally and globally. Also, I'm giving maintainance to
 my previous projects and collaborating with the repos mentioned above.
 
