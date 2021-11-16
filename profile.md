@@ -14,7 +14,8 @@ my "general" programmer story, not about my GitHub profile \(for that, go [here]
   - Pascal
   - Java
   - JavaScript
-  - C++ (I'm learning C++ _right now!_)
+  - C++
+  - Kotlin
 
 ## \(Real\) languages that I use for programming
 
