@@ -46,6 +46,7 @@ Articles that I wrote just for you:
 - [3. Jumping from Python 2 to Python 3](http://diddileija.github.io/articles/article-03)
 - [4. Using Nox to automate your tests](http://diddileija.github.io/articles/article-04)
 - [5. Comparating the most popular Operative Systems of our days](http://diddileija.github.io/articles/article-05)
+- [6. Following a style and quality standard on your Python code](http://diddileija.github.io/articles/article-06)
 
 ----
 
