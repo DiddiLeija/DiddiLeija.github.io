@@ -26,6 +26,8 @@ I upload my packages to PyPI. My user profile is [here](https://pypi.org/user/Di
 
 ## [StackExchange](https://stackexchange.com/) communities
 
+<a href="https://stackexchange.com/users/21969270/diego-ramirez"><img src="https://stackexchange.com/users/flair/21969270.png" width="208" height="58" alt="profile for Diego Ramirez on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Diego Ramirez on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
 I use those communities to ask and answer questions. I have an account at the following
 communities:
 
