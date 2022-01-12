@@ -4,7 +4,11 @@ Source code for my personal website,
 named [`DiddiLeija.github.io`](http://diddileija.github.io). I will be working here to
 build something cool to describe myself.
 
+<!---
+(Removed, I'm not sure if I'll move from github.io!)
+
 _(This will eventually move to an independent site, but it will stay inside `github.io` until I get a DNS provider on my region :sweat_smile:)_
+--->
 
 ## The Jekyll theme
 
