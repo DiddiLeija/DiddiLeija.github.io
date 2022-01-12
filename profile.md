@@ -28,17 +28,19 @@ my "general" programmer story, not about my GitHub profile \(for that, go [here]
 
 Those that I use, _in order of preference_:
 
-1. **GUIs**. I love making things that the others can see, you know.
+1. **Game development**. It's more a hobby than a job, but I love it
 2. **Packaging**. Most of my public repos and my public contributions are about packages. I like making things that any other developer can download and use.
-3. **Web programming**. I'm not an expert at all, but I like it.
-4. **Databases**. Well... I'm not a "huge fan" of doing databases, but I can do it.
+3. **GUIs**. I love making things that the others can see, you know.
+4. **Web programming**. I'm not an expert at all, but I like it.
+5. **Databases**. Well... I'm not a "huge fan" of doing databases, but I can do it.
 
 _In order of usage_:
 
 1. **Packaging**. I am currently working to find a way to improve [my existing packages around GitHub](http://github.com/DiddiLeija?tab=repositories).
 2. **GUIs**. I make GUIs for my local community \(to help their jobs\).
-3. **Databases**. I don't like them, but my community needs databases for their jobs.
-4. **Web programming**. I create personal projects with JavaScript or just HTMLs.
+3. **Game development**. I don't spend all my time in this, even when I love it.
+4. **Databases**. I don't like them, but my community needs databases for their jobs.
+5. **Web programming**. I create personal projects with JavaScript or just HTMLs.
 
 ## Organizations
 
