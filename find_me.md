@@ -1,7 +1,7 @@
 # Find me on the Internet
 
-As a developer, you can find me on several places, but I'll suggest you some good places to see
-my activity.
+As a developer, you can find me on several places, but I'll suggest you some
+good places to see my activity and stuff.
 
 ## [GitHub](https://github.com)
 
