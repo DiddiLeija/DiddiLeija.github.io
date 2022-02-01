@@ -67,9 +67,9 @@ must fit into 80 spaces by line using
 A "lorem ipsum" fragment can be
 part of our large string:
 
-Lorem ipsum dolor sit amet, 
-consectetur adipisicing elit, sed do 
-eiusmod tempor incididunt ut labore 
+Lorem ipsum dolor sit amet,
+consectetur adipisicing elit, sed do
+eiusmod tempor incididunt ut labore
 et dolore magna aliqua.
 """
 
@@ -77,11 +77,7 @@ et dolore magna aliqua.
 print(justify(s))
 ```
 
-**`text_formatter`** is a new recent package that I created to prettily format [Python strings](https://docs.python.org/3.8/library/stdtypes.html#text-sequence-type-str), with 
+**`text_formatter`** is a new recent package that I created to prettily format [Python strings](https://docs.python.org/3.8/library/stdtypes.html#text-sequence-type-str), with
 simple functions and submodules. It's still on development, so feel free to take a look on it.
 
 \([View this project on GitHub](http://github.com/diddileija/text_formatter) or see the [ReadTheDocs documentation site](http://text-formatter.readthedocs.io)\).
-
-****
-
-## \([Go back to the menu](http://diddileija.github.io)\)
