@@ -7,12 +7,6 @@ share strange ideas with the world!
 print("Hello, I am DiddiLeija.")
 ```
 
-----
-
-![Diddi's Giant Image](https://diddileija.github.io/Diddi3.png)
-
-----
-
 ## Table of contents
 
 Find good pages about me, on a “more personal” level than the GitHub profile:
@@ -26,16 +20,12 @@ Find good pages about me, on a “more personal” level than the GitHub profile
 
 Also, you can read my [programmer diary](https://diddileija.github.io/diary/contents)!
 
-----
-
 ### Pages on my [projects section](http://diddileija.github.io/projects/)
 
 Projects that deserve a separate page:
 
 - [`dirty-experiments`](http://diddileija.github.io/projects/dirty_experiments): Miscellaneous experiments of programming
 - [`DiddiOS`](http://diddileija.github.io/projects/diddios): A developer-friendly OS, based on Linux
-
-----
 
 ### My [articles](http://diddileija.github.io/articles/) section
 
@@ -47,6 +37,10 @@ Articles that I wrote just for you:
 - [4. Using Nox to automate your tests](http://diddileija.github.io/articles/article-04)
 - [5. Comparating the most popular Operative Systems of our days](http://diddileija.github.io/articles/article-05)
 - [6. Following a style and quality standard on your Python code](http://diddileija.github.io/articles/article-06)
+
+----
+
+![Diddi's Giant Image](https://diddileija.github.io/Diddi3.png)
 
 ----
 
