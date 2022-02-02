@@ -1,6 +1,6 @@
-![Diddi shows a clean code](https://diddileija.github.io/articles/images/Clean-code.png)
-
 # Following a style and quality standard on your Python code
+
+![Diddi shows a clean code](images/Clean-code.png)
 
 - **Article type**: Informative article
 - **OS needed**: N/A
@@ -15,7 +15,7 @@ of how to write the code, the code style may look like this:
 
 That's because each collaborator made the things on its own way, and the code looks irregular.
 
-However, Python has defined "best practices" to keeep everything as clean as possible. On this article, we'll talk about how to follow
+However, Python has defined "best practices" to keep everything as clean as possible. On this article, we'll talk about how to follow
 these practices, to ensure a well-formatted code.
 
 ## PEP 8: A standard for Python code
@@ -38,7 +38,7 @@ Some examples of linters are:
 
 ## Use formatters
 
-**Formatters** are better than linters, because they fix the bad code, instead of just crashing. Taking the previous comic:
+**Formatters** are better than linters, because they fix the bad code, instead of just crashing. Basing on the previous comic:
 
 ![Formatters comic](https://user-images.githubusercontent.com/83621221/144658932-6bb0862b-d372-4e19-bcad-9049366ffb60.png)
 
@@ -50,7 +50,7 @@ Some examples of formatters are:
 ## Use automation tools
 
 What can be better than formatters and linters? **Formatters and linters... together!** You can set up an automation tool to
-do both things (or even more things) easier. I am giving you some examples to start:
+do both things (or even more things) with less steps. Here are some examples to start:
 
 - [pre-commit](https://pre-commit.com)
 - [Nox](https://nox.thea.codes)
