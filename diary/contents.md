@@ -7,10 +7,10 @@ many days. Also, don't expect me to advice a new page -- so stay alert!
 
 ## Pages (ordered by day)
 
-- [2022-01-03](https://diddileija.github.io/diary/2022-01-03)
-- [2021-11-26](https://diddileija.github.io/diary/2021-11-26)
-- [2021-11-16](https://diddileija.github.io/diary/2021-11-16)
-- [2021-11-13](https://diddileija.github.io/diary/2021-11-13)
-- [2021-11-01](https://diddileija.github.io/diary/2021-11-01)
-- [2021-10-29](https://diddileija.github.io/diary/2021-10-29)
-- [2021-10-28](https://diddileija.github.io/diary/2021-10-28)
+- [2022-01-03](2022-01-03)
+- [2021-11-26](2021-11-26)
+- [2021-11-16](2021-11-16)
+- [2021-11-13](2021-11-13)
+- [2021-11-01](2021-11-01)
+- [2021-10-29](2021-10-29)
+- [2021-10-28](2021-10-28)
