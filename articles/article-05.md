@@ -1,6 +1,6 @@
-![Diddi and 3 OS](http://DiddiLeija.github.io/articles/images/Diddi-And-3-OS.png)
-
 # Comparating the most popular Operative Systems of our days
+
+![Diddi and 3 OS](images/Diddi-And-3-OS.png)
 
 - **Article type**: Informative article
 - **OS needed**: Windows, macOS, Linux
@@ -8,18 +8,18 @@
 
 ## Overview
 
-On the present day, there are 3 major OS (Operative Systems) around the world:
+On the present day, there are 3 "major" OS (Operative Systems) around the world:
 
-- **Windows** (we are going to talk about **Windows 10**)
+- **Windows** (we are going to talk about **Windows 11** for now)
 - **macOS** (it used to be named **OS X**)
-- **Linux** (this includes [a lot of different flavours](https://www.linux.org/pages/download/))
+- **Linux** (this includes [a lot of different flavours](https://www.linux.org/pages/download/) and derivations)
 
 They are pretty different, and they have their own "pros and cons" when you want to write code on them.
 On this article, we'll talk about those differences.
 
 ## Windows
 
-Windows is an OS developed by [Microsoft](https://www.microsoft.com/). Its latest version is **Windows 10** _(last verified: **22/09/2021**)_.
+Windows is an OS developed by [Microsoft](https://www.microsoft.com/). Its latest version is **Windows 11** _(last verified: **02/02/2022**)_.
 
 ### Windows pros
 
@@ -33,13 +33,13 @@ Windows is an OS developed by [Microsoft](https://www.microsoft.com/). Its lates
   files outside the user directory (`C:/Users/[your username]`). Even if you are the administrator of the system, you may have to explicitely provide
   the permissions to many of your programs.
 - **Windows _always_ wants to download programs from the Microsoft Store**. At the first sight, this looks like a security advantage. But sometimes the programs
-  from the MStore are different from the program official website. For example, see my [Article 2](https://diddileija.github.io/articles/article-02).
+  from the MStore are different from the program official website. For example, see my [Article 2](article-02).
 - **If a newer OS "generation" is released, it is hard to do the transition**. A clear example was the transition from Windows 7 to Windows 8, and then
   to Windows 10. If you search this on a browser, you'll find many stories of people dealing with the transitions.
 
 ## macOS
 
-This OS was developed by [Apple Inc.](http://apple.com). Its latest version is named **macOS Big Sur** _(last verified: **22/09/2021**)_.
+This OS was developed by [Apple Inc.](http://apple.com). Its latest version is named **macOS Monterey** _(last verified: **02/02/2022**)_.
 
 ### macOS pros
 
@@ -54,14 +54,14 @@ This OS was developed by [Apple Inc.](http://apple.com). Its latest version is n
 
 ## Linux
 
-Many of the Linux flavors (Ubuntu, CentOS, Debian, and much more) are maintained by many organizations.
+Many of the Linux flavors (Ubuntu, CentOS, Debian... and much more) are maintained by many organizations.
 The kernel was created by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds).
 When we say "Linux", we are refering to the group of operative systems based on that kernel.
 
 ### Linux pros
 
-- **It is strong against viruses**. It is stronger than other OS (Windows, macOS).
-- **It is developer-friendly**. It is very easy to handle, so developers feel fine when using a Linux machine!
+- **It is strong against viruses**. It is stronger than other OS (Windows, macOS), as far as I know.
+- **It is developer-friendly**. Most of the times, it is very easy to handle, so developers feel fine when using a Linux machine!
 
 ### Linux cons
 

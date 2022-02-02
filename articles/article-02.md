@@ -1,12 +1,12 @@
-![Diddi with 2 Pythons](http://DiddiLeija.github.io/articles/images/Diddi-with-2-Pythons.png)
-
 # Why you shouldn't install Python from the Microsoft Store if you want to do advanced code?
+
+![Diddi with 2 Pythons](images/Diddi-with-2-Pythons.png)
 
 - **Article type**: Informative article
 - **OS needed**: Windows (with Microsoft Store installed)
 - **Programming language**: Python
 
-_(Based on [an article from `dev.to`](https://dev.to/naruaika/why-i-didn-t-install-python-from-the-microsoft-store-5cbd))_.
+_(Based on [this article](https://dev.to/naruaika/why-i-didn-t-install-python-from-the-microsoft-store-5cbd))_.
 
 ## Overview
 
@@ -14,14 +14,16 @@ Microsoft has provided its own store, with the hope that most of the Windows use
 a Python distribution. Many users install Python from there. However, most of the Python maintainers recommend to install Python from [Python.org](https://python.org).
 
 At this point, you'll probably ask: "Where is the difference? Why I shouldn't install Python from the Microsoft Store?". On this article, we will dive into this
-theme. I installed Python from the Microsoft Store, and I were looking for information from other people who tried it.
+theme. For this, I installed Python from the Microsoft Store in a fresh computer, and I were looking for information from
+[other people who tried it](https://dev.to/naruaika/why-i-didn-t-install-python-from-the-microsoft-store-5cbd). I mixed the results, and wrote them here.
 
 ## The difference
 
-I'm still not sure why, but the Python installer from the Microsoft Store works a bit different than the one from [Python.org](https://python.org/downloads). It seems like
-the Microsoft Store Python installer messes up the paths, so the advanced code (console scripts, path manipulation) could not work fine.
+The Python installer from the Microsoft Store works a bit different than the one from [Python.org](https://python.org/downloads). It seems like
+the Microsoft Store Python installer messed up the paths, so the advanced code (console scripts, path manipulations) could not work fine.
 
-Most of the issues I listed here, are related to the path differences: The Microsoft Store installer selected a different path to store the programs.
+The issues I listed here, are directly related to the path differences: The Microsoft Store installer selected a different path to store the programs.
+As far as I know, that's caused by a restriction from the Microsoft Store.
 
 ### The `python` command
 
@@ -40,14 +42,14 @@ C:/Users/Diego Ramirez>python3.9 -c "print('Hello world')"
 Hello world
 ```
 
-That's messy, since most of the Python docs, packages, and articles refer to using `python`, the correct executable name.
+That's messy, since most of the Python docs, packages, and articles refer to using `python`.
 
 Similar issues happen with another "console scripts" (like `virtualenv`, `cxfreeze`, etc.)
 
 ### `pip` gets confused
 
-Pip depends on the environment variable `PATH` for installing packages. Also, the Python code uses that variable (expressed as `sys.path`). But, on a MStore
-installation, the path where the Python packages are stored is not included on `PATH`. So, when installing a package with Pip, you may get this:
+Pip depends on the environment variable `PATH` (or `PYTHONPATH`?) for installing packages. Also, the Python code uses that variable (expressed as `sys.path`). But, on a MStore
+installation, the path where the Python packages are stored is not included in `PATH`. So, when installing a package with Pip, you may get this:
 
 ```
 C:/Users/Diego Ramirez>pip install --upgrade pip
@@ -63,10 +65,10 @@ some weird behavior recently (even when it should do the same than `pip`).
 Let's stop here for now. Now let's decide.
 
 Python is awesome. I prefer using it on most of my projects. However, I don't consider you should install it from the Microsoft Store, unless you get adapted to these
-issues. I don't want to discredit that installer, but I personally prefer the `Python.org` installer, if you want to write advanced code. Even the
+issues. I don't want to discredit that installer, but I personally prefer the `Python.org` installer, if you want to write advanced stuff. Even the
 [documentation](https://docs.python.org/3/using/windows.html#known-issues) warns about known issues of the MStore installer.
 
-Anyway, it is the most confortable option to install Python, and it works fine with simple code and student experiments. But if you want to jump into a higher level, I 
+Anyway, it is the most confortable option to install Python, and it works fine with simple code and student experiments. But if you want to jump into a higher level, I
 recommend you to get Python from somewhere else :)
 
 ----

@@ -7,47 +7,41 @@ share strange ideas with the world!
 print("Hello, I am DiddiLeija.")
 ```
 
-----
-
-![Diddi's Giant Image](https://diddileija.github.io/Diddi3.png)
-
-----
-
 ## Table of contents
 
 Find good pages about me, on a “more personal” level than the GitHub profile:
 
-- [My programming story](http://diddileija.github.io/my_story). There, you can read my story since I started to write programs.
-- [My programming profile](http://diddileija.github.io/profile). Read a short document about the things I use.
-- [My Python packages](http://diddileija.github.io/py_packages). Read about some of my uploaded Python packages.
-- [Find me on the Internet](http://diddileija.github.io/find_me). See many links to find me on the web.
+- [My programming story](my_story). There, you can read my story since I started to write programs.
+- [My programming profile](profile). Read a short document about the things I use.
+- [My Python packages](py_packages). Read about some of my uploaded Python packages.
+- [Find me on the Internet](find_me). See many links to find me on the web.
 
 (If you want a “more general” profile, go to my [GitHub profile](http://github.com/DiddiLeija)).
 
-Also, you can read my [programmer diary](https://diddileija.github.io/diary/contents)!
+Also, you can read my [programmer diary](diary/contents)!
 
-----
-
-### Pages on my [projects section](http://diddileija.github.io/projects/)
+### Pages on my [projects section](projects/)
 
 Projects that deserve a separate page:
 
-- [`dirty-experiments`](http://diddileija.github.io/projects/dirty_experiments): Miscellaneous experiments of programming
-- [`DiddiOS`](http://diddileija.github.io/projects/diddios): A developer-friendly OS, based on Linux
+- [`dirty-experiments`](projects/dirty_experiments): Miscellaneous experiments of programming
+- [`DiddiOS`](projects/diddios): A developer-friendly OS, based on Linux
 
-----
-
-### My [articles](http://diddileija.github.io/articles/) section
+### My [articles](articles/) section
 
 Articles that I wrote just for you:
 
-- [1. Creating standalone Windows executables from Python code, using cx\_Freeze](http://diddileija.github.io/articles/article-01)
-- [2. Why you shouldn't install Python from the Microsoft Store if you want to do advanced code?](http://diddileija.github.io/articles/article-02)
-- [3. Jumping from Python 2 to Python 3](http://diddileija.github.io/articles/article-03)
-- [4. Using Nox to automate your tests](http://diddileija.github.io/articles/article-04)
-- [5. Comparating the most popular Operative Systems of our days](http://diddileija.github.io/articles/article-05)
-- [6. Following a style and quality standard on your Python code](http://diddileija.github.io/articles/article-06)
+- [1. Creating standalone Windows executables from Python code, using cx\_Freeze](articles/article-01)
+- [2. Why you shouldn't install Python from the Microsoft Store if you want to do advanced code?](articles/article-02)
+- [3. Jumping from Python 2 to Python 3](articles/article-03)
+- [4. Using Nox to automate your tests](articles/article-04)
+- [5. Comparating the most popular Operative Systems of our days](articles/article-05)
+- [6. Following a style and quality standard on your Python code](articles/article-06)
 
 ----
 
-_This site (and its components) is licensed under the [MIT license](http://diddileija.github.io/license_notice)._
+![Diddi's Giant Image](Diddi3.png)
+
+----
+
+_This site (and its components) is licensed under the [MIT license](license_notice)._

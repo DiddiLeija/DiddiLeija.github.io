@@ -30,4 +30,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-_(The text file of this license is [here](http://diddileija.github.io/LICENSE.txt))._
+_(The text file of this license is [here](./LICENSE.txt))._
