@@ -1,7 +1,5 @@
 # Hello Internet, my name is DiddiLeija
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G3AL6D6)
-
 Hi, I am [@DiddiLeija](https://github.com/DiddiLeija), I’m a Python developer who is ready to
 share strange ideas with the world!
 
@@ -42,6 +40,12 @@ Articles that I wrote just for you:
 
 - My [programmer diary](diary/contents)
 - My [wiki](wiki)
+
+## Support me
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G3AL6D6)
+
+Visit my Ko-fi page for leaving me a tip!
 
 ----
 
