@@ -1,5 +1,7 @@
 # Hello Internet, my name is DiddiLeija
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G3AL6D6)
+
 Hi, I am [@DiddiLeija](https://github.com/DiddiLeija), I’m a Python developer who is ready to
 share strange ideas with the world!
 
@@ -18,8 +20,6 @@ Find good pages about me, on a “more personal” level than the GitHub profile
 
 (If you want a “more general” profile, go to my [GitHub profile](http://github.com/DiddiLeija)).
 
-Also, you can read my [programmer diary](diary/contents)! And why don't you take a look at my [wiki](wiki)!
-
 ### Pages on my [projects section](projects/)
 
 Projects that deserve a separate page:
@@ -37,6 +37,11 @@ Articles that I wrote just for you:
 - [4. Using Nox to automate your tests](articles/article-04)
 - [5. Comparating the most popular Operative Systems of our days](articles/article-05)
 - [6. Following a style and quality standard on your Python code](articles/article-06)
+
+### More cool stuff!
+
+- My [programmer diary](diary/contents)
+- My [wiki](wiki)
 
 ----
 
