@@ -49,13 +49,13 @@ _In order of usage_:
 Those organizations that I've joined, hosted in GitHub.
 
 - **[@pypa](http://github.com/pypa)**: I am collaborating with [`pip`](http://pip.pypa.io) on [trivial changes](https://github.com/pypa/pip/issues?q=author%3ADiddiLeija) and I give attention to some issues from newcomer users. I think [@pypa](http://github.com/pypa) has strongly contributed to my programming progress. Now, I'm helping with some other [@pypa](http://github.com/pypa) repositories, too.
+- **[@wntrblm](https://github.com/wntrblm)**: I'm part of the Winterbloom team because of [Nox](https://nox.thea.codes), which is now part of this organization.
 
 ## Some important contributions
 
 Some of my highest contributions.
 
 - **[Pip](https://pip.pypa.io)**. As I said above, Pip was my first opportunity to contribute on an open source project.
-- **[PyPA](https://pypa.io)**. I joined this authority to work on Pip, but then I've helped with other PyPA-regulated projects.
 - **[Nox](https://nox.thea.codes)**. I'm currently one of the [maintainers of the project](https://nox.thea.codes/en/stable/#maintainers-contributors).
 
 I'm glad to be in these projects, it's such an honor for me :)
