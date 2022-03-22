@@ -64,12 +64,12 @@ I'm glad to be in these projects, it's such an honor for me :)
 
 ## Fact: _Why "DiddiLeija"?_
 
-Some people may ask: _"Who or what is 'Diddi'?", "Why are you using an image of a masked person in your profiles?"_, and _"Where does 'DiddiLeija' came from?"_
-I'll give you the answers now.
+Some people (or many?) may ask: _"Who or what is 'Diddi'?", "Why are you using an image of a masked person in your profiles?"_, and
+_"Where does 'DiddiLeija' came from?"_ I'll give you the answers now and here.
 
 I love programming, but I also like drawing: I like to draw and write comics.
 
-One of my characters is named `Diddi`. He wears
+One of my characters is named **`Diddi`**. He wears
 a dark mask, black suit and a green backpack. On my comics, Diddi is a digital hero from the future, that hides himself from the rest of the people by using
 a metal mask. I have to admit it: _I loved Diddi from the first time._
 
