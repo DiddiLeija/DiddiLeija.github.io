@@ -38,8 +38,8 @@ Articles that I wrote just for you:
 
 ### More cool stuff!
 
-- My [programmer diary](diary/contents)
-- My [wiki](wiki)
+- [My programmer diary](diary/contents)
+- [My wiki](wiki)
 
 ## Support me
 
