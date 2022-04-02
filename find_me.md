@@ -41,7 +41,7 @@ Yeah, I have a developer account on Google. See it [here](https://developers.goo
 ## [Discord](https://discord.com)
 
 Initially, I created a Discord account to join the [Winterbloom](https://winterbloom.com/) server to chat about [Nox](https://nox.thea.codes),
-but you can ping me with a DM. Find me as `DiddiLeija#6744`.
+but you can ping me with a DM if you have something good to say. Find me as `DiddiLeija#6744`.
 
 ## [DigitalOcean](https://www.digitalocean.com/)
 
