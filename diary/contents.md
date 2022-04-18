@@ -7,6 +7,7 @@ many days. Also, don't expect me to advice a new page -- so stay alert!
 
 ## Pages (ordered by day)
 
+- [2022-04-18](2022-04-18)
 - [2022-03-22](2022-03-22)
 - [2022-03-08](2022-03-08)
 - [2022-02-16](2022-02-16)
