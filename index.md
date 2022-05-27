@@ -38,7 +38,7 @@ Articles that I wrote just for you:
 
 ### More cool stuff!
 
-- [My programmer diary](diary/contents)
+- [My programmer diary](diary)
 - [My wiki](wiki)
 
 ## Support me
