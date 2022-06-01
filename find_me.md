@@ -14,8 +14,8 @@ You can find me as **@DiddiLeija**. [See my GitHub profile here](https://github.
 
 I have some accounts on many sites hosted by `python.org`. I listed them:
 
+<!-- - [bugs.python.org](https://bugs.python.org/user39951) -->
 - [discuss.python.org](https://discuss.python.org/u/diddileija/summary)
-- [bugs.python.org](https://bugs.python.org/user39951)
 - [python.org](https://www.python.org/users/DiddiLeija/)
 
 (I'm also a PSF member).
