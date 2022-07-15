@@ -24,24 +24,27 @@ I have some accounts on many sites hosted by `python.org`. I listed them:
 
 I upload my packages to PyPI. My user profile is [here](https://pypi.org/user/DiddiLeija/).
 
+## [Discord](https://discord.com)
+
+Initially, I created a Discord account to join the [Winterbloom](https://winterbloom.com/) server to chat about [Nox](https://nox.thea.codes),
+but you can ping me with a DM if you have something good to say.
+
+You can join my own Discord server, that I made to chat about my games. If you're ready, visit this small community at
+[discord.gg/DfrHxT9ENy](https://discord.gg/DfrHxT9ENy). I would _love_ to hear about you!
+
+## [itch.io](https://itch.io)
+
+I've uploaded (and will upload) games on this platform. You can see my landing page [here](https://diddileija.itch.io/).
+
 ## [StackExchange](https://stackexchange.com/) communities
 
 <a href="https://stackexchange.com/users/21969270/diego-ramirez"><img src="https://stackexchange.com/users/flair/21969270.png" width="208" height="58" alt="profile for Diego Ramirez on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Diego Ramirez on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 I use those communities to ask and answer questions. The full list of communities can be found [here](https://stackexchange.com/users/21969270/diego-ramirez?tab=accounts).
 
-## [itch.io](https://itch.io)
-
-I want to upload games on that platform. You can see my dedicated page [here](https://diddileija.itch.io/).
-
 ## [Google Developers](https://developers.google.com/)
 
 Yeah, I have a developer account on Google. See it [here](https://developers.google.com/profile/u/116698410132405877660).
-
-## [Discord](https://discord.com)
-
-Initially, I created a Discord account to join the [Winterbloom](https://winterbloom.com/) server to chat about [Nox](https://nox.thea.codes),
-but you can ping me with a DM if you have something good to say. Find me as `DiddiLeija#6744`.
 
 ## [DigitalOcean](https://www.digitalocean.com/)
 
