@@ -4,7 +4,7 @@ License for the site.
 
 # License of the source code
 
-This includes every component of the site (files, articles, images, etc.):
+This includes every piece of **code** or **software**.
 
 ```
 MIT License
