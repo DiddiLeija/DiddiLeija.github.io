@@ -32,8 +32,11 @@ Yeah, I have a Ko-fi page. You can visit that page with the button below:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G3AL6D6)
 
 Ko-fi is a page where people connects with their supporters, via tips, commissions,
-shop items, and more. If you're unfamiliar to Ko-fi, check out this
-[introduction article](https://help.ko-fi.com/hc/en-us/articles/115004000994-What-is-Ko-fi-).
+shop items, and more.
+
+If you're unfamiliar to Ko-fi, check out this [introduction article](https://help.ko-fi.com/hc/en-us/articles/115004000994-What-is-Ko-fi-).
+You can also navigate the [Ko-fi's help portal](https://help.ko-fi.com/).
+I'd suggest you to visit the [supporters FAQ](https://help.ko-fi.com/hc/en-us/sections/360003475153-Supporter-Help).
 
 ## Supporter features
 
@@ -67,3 +70,5 @@ I really appreciate any kind of support, so I won't forget this.
 Have you joined my Discord server? If not, you'll find more info [here](find_me#discord).
 If you've already joined, and give me a tip, you'll get a special role! And also, you'll
 gain access to special channels (for example, a polls channel).
+
+Learn more about claiming this reward [here](https://help.ko-fi.com/hc/en-us/articles/8664701197073-How-Do-I-Join-a-Creator-s-Discord-Server-).
