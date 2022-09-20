@@ -30,3 +30,40 @@ You can check a few pages about me, if you want to known who I am:
 Yeah, I have a Ko-fi page. You can visit that page with the button below:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G3AL6D6)
+
+Ko-fi is a page where people connects with their supporters, via tips, commissions,
+shop items, and more. If you're unfamiliar to Ko-fi, check out this
+[introduction article](https://help.ko-fi.com/hc/en-us/articles/115004000994-What-is-Ko-fi-).
+
+## Supporter features
+
+### One-off donation
+
+A single donation.
+
+### Monthly donation
+
+A specific donation each month.
+
+<!-- TODO: When I open my shop & commissions, uncomment this page!
+
+### Commisions
+
+### Shop
+
+-->
+
+## Supporter benefits
+
+Yes, there'll be rewards!
+
+### Shoutouts
+
+Each donation will receive a shoutout at [my diary](diary) and my Ko-fi page.
+I really appreciate any kind of support, so I won't forget this.
+
+### Discord rewards!
+
+Have you joined my Discord server? If not, you'll find more info [here](find_me#discord).
+If you've already joined, and give me a tip, you'll get a special role! And also, you'll
+gain access to special channels (for example, a polls channel).
