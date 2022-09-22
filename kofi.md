@@ -38,7 +38,25 @@ If you're unfamiliar to Ko-fi, check out this [introduction article](https://hel
 You can also navigate the [Ko-fi's help portal](https://help.ko-fi.com/).
 I'd suggest you to visit the [supporters FAQ](https://help.ko-fi.com/hc/en-us/sections/360003475153-Supporter-Help).
 
-## Supporter features
+## Why to support me?
+
+Well... nobody's paying me to code or draw. Anyway, I'm still here, because I want to.
+So, if you want to say "thanks" with your cents, you'll help me keep doing this :)
+
+## Payment details
+
+I used [Stripe](https://stripe.com) to receive the tips. No PayPal tips are available
+by now, sorry. Due to some legal issues in my country, I registered with Stripe with
+my father’s account and data (btw, we took that decision together). Anyway, you can be
+sure that your tip will only support my developer career. And, maybe, you can help me
+buy a coffee for the weekend :P
+
+Each "coffee" costs **$2 (two dollars)**. The cost of commissions and shop items (if
+they exist) will vary, depending on each product.
+
+## Supporter options
+
+There are several ways to support me on Ko-fi. They are listed below.
 
 ### One-off donation
 
@@ -64,6 +82,11 @@ Yes, there'll be rewards!
 
 Each donation will receive a shoutout at [my diary](diary) and my Ko-fi page.
 I really appreciate any kind of support, so I won't forget this.
+
+### Member-only content
+
+Indeed, my supporters will unlock special Ko-fi posts and images, and even WIP
+stuff, if available!
 
 ### Discord rewards!
 
