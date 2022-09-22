@@ -45,7 +45,7 @@ Articles that I wrote just for you:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G3AL6D6)
 
-Visit my Ko-fi page for leaving me a tip!
+Visit my Ko-fi page for leaving me a tip! Check out more info [right here](kofi).
 
 ----
 
