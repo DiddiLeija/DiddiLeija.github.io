@@ -1,11 +1,10 @@
 # DiddiLeija.github.io
 
-Source code for my personal website,
-named [`DiddiLeija.github.io`](http://diddileija.github.io). I will be working here to
-build something cool to describe myself.
+Source code for my personal website, currently named [`DiddiLeija.github.io`](http://diddileija.github.io).
+I will be working here to build something cool to describe myself.
 
 <!---
-(Removed, I'm not sure if I'll move from github.io!)
+-- Removed, I'm not sure if I'll move from github.io! (Reason: I have no money) --
 
 _(This will eventually move to an independent site, but it will stay inside `github.io` until I get a DNS provider on my region :sweat_smile:)_
 --->
@@ -17,9 +16,9 @@ to give my dark, elegant personallity to my custom page, you know...
 
 ## Improvements
 
-As I'm getting new to GitHub pages, I might do glitchy things and something like that... so if you find
-somewhere I can improve my site, please tell me via an [issue](http://github.com/diddileija/diddileija.github.io/issues)
-or a [pull request](http://github.com/diddileija/diddileija.github.io/pulls).
+I might do glitchy things or something like that (I hope I won't, but who knows)... so if you find something
+I can improve on my site, please tell me via an [issue](http://github.com/diddileija/diddileija.github.io/issues)
+or propose a fix with a [pull request](http://github.com/diddileija/diddileija.github.io/pulls)!
 
 ## License
 
