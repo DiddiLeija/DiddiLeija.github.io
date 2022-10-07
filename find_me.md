@@ -10,6 +10,19 @@ my first contributions to the world... And I'm still working on projects hosted 
 
 You can find me as **@DiddiLeija**. [See my GitHub profile here](https://github.com/DiddiLeija).
 
+## E-mails
+
+Send me a mail to `dr01191115@gmail.com` if you want to discuss something that needs my inmediate attention.
+I'll reply to you as soon as possible!
+
+## [Discord](https://discord.com)
+
+Initially, I created a Discord account to join the [Winterbloom](https://winterbloom.com/) server to chat about [Nox](https://nox.thea.codes),
+but you can ping me with a DM if you have something good to say.
+
+You can join my own Discord server, that I made to chat about my games. If you're ready, visit this small community at
+[discord.gg/DfrHxT9ENy](https://discord.gg/DfrHxT9ENy). I would _love_ to hear about you!
+
 ## Sites inside [Python.org](https://python.org)
 
 I have some accounts on many sites hosted by `python.org`. I listed them:
@@ -23,14 +36,6 @@ I have some accounts on many sites hosted by `python.org`. I listed them:
 ## [PyPI](https://pypi.org)
 
 I upload my packages to PyPI. My user profile is [here](https://pypi.org/user/DiddiLeija/).
-
-## [Discord](https://discord.com)
-
-Initially, I created a Discord account to join the [Winterbloom](https://winterbloom.com/) server to chat about [Nox](https://nox.thea.codes),
-but you can ping me with a DM if you have something good to say.
-
-You can join my own Discord server, that I made to chat about my games. If you're ready, visit this small community at
-[discord.gg/DfrHxT9ENy](https://discord.gg/DfrHxT9ENy). I would _love_ to hear about you!
 
 ## [itch.io](https://itch.io)
 
@@ -50,6 +55,6 @@ Yeah, I have a developer account on Google. See it [here](https://developers.goo
 
 I logged in there for some reason, I think. Find me [here](https://www.digitalocean.com/community/users/diddileija).
 
-## Of course, [this site](https://DiddiLeija.github.io)!
+## ... Of course, [this site](https://DiddiLeija.github.io)!
 
-How to find it? Well, you are already on it... This site exists to show my existence in the mighty universe...
+How to find it? Well, you're already on it... This site exists as a proof of my existence in the mighty universe...
