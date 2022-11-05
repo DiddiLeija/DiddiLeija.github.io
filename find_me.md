@@ -23,6 +23,15 @@ but you can ping me with a DM if you have something good to say.
 You can join my own Discord server, that I made to chat about my games. If you're ready, visit this small community at
 [discord.gg/DfrHxT9ENy](https://discord.gg/DfrHxT9ENy). I would _love_ to hear about you!
 
+## [itch.io](https://itch.io)
+
+I've uploaded (and will upload) games on this platform. You can see my landing page [here](https://diddileija.itch.io/).
+
+## [omegaUp](https://omegaup.com)
+
+I've joined omegaUp, which is a platform for programmers in Latin America. (Yeah, indeed, I'm latin american).
+As (almost) everywhere, I can be found as [DiddiLeija](https://omegaup.com/profile/DiddiLeija/).
+
 ## Sites inside [Python.org](https://python.org)
 
 I have some accounts on many sites hosted by `python.org`. I listed them:
@@ -36,10 +45,6 @@ I have some accounts on many sites hosted by `python.org`. I listed them:
 ## [PyPI](https://pypi.org)
 
 I upload my packages to PyPI. My user profile is [here](https://pypi.org/user/DiddiLeija/).
-
-## [itch.io](https://itch.io)
-
-I've uploaded (and will upload) games on this platform. You can see my landing page [here](https://diddileija.itch.io/).
 
 ## [StackExchange](https://stackexchange.com/) communities
 
