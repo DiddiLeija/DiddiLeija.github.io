@@ -32,6 +32,10 @@ I've uploaded (and will upload) games on this platform. You can see my landing p
 I've joined omegaUp, which is a platform for programmers in Latin America. (Yeah, indeed, I'm latin american).
 As (almost) everywhere, I can be found as [DiddiLeija](https://omegaup.com/profile/DiddiLeija/).
 
+## [HackerRank](https://hackerrank.com)
+
+Don't ask me why I joined. As usually, my nickname is [DiddiLeija](https://www.hackerrank.com/DiddiLeija).
+
 ## Sites inside [Python.org](https://python.org)
 
 I have some accounts on many sites hosted by `python.org`. I listed them:
