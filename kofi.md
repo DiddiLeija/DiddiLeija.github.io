@@ -51,7 +51,7 @@ my father’s account and data (btw, we took that decision together). Anyway, yo
 sure that your tip will only support my developer career. And, maybe, you can help me
 buy a coffee for the weekend :P
 
-Each "coffee" costs **$2 (two dollars)**. The cost of commissions and shop items (if
+Each "coffee" costs **$1 (one dollar)**. The cost of commissions and shop items (if
 they exist) will vary, depending on each product.
 
 ## Supporter options
@@ -66,7 +66,7 @@ A single donation.
 
 A specific donation each month.
 
-<!-- TODO: When I open my shop & commissions, uncomment this page!
+<!-- TODO: When I open my shop & commissions, uncomment this section!
 
 ### Commisions
 
@@ -76,7 +76,7 @@ A specific donation each month.
 
 ## Supporter benefits
 
-Yes, there'll be rewards!
+Yes, there'll be rewards! And they are listed below.
 
 ### Shoutouts
 
@@ -92,6 +92,6 @@ stuff, if available!
 
 Have you joined my Discord server? If not, you'll find more info [here](find_me#discord).
 If you've already joined, and give me a tip, you'll get a special role! And also, you'll
-gain access to special channels (for example, a polls channel).
+gain access to special channels (for example, a WIPs channel).
 
 Learn more about claiming this reward [here](https://help.ko-fi.com/hc/en-us/articles/8664701197073-How-Do-I-Join-a-Creator-s-Discord-Server-).
