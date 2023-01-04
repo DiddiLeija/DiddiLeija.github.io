@@ -1,7 +1,9 @@
 # Hello Internet, my name is DiddiLeija
 
-Hi, I am [@DiddiLeija](https://github.com/DiddiLeija), I’m a Python developer who is ready to
-share strange ideas with the world!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G3AL6D6)
+
+Hi, I am **[@DiddiLeija](https://github.com/DiddiLeija)**, I’m a Python developer who is ready to
+share stuff with the world!
 
 ```python
 print("Hello, I am DiddiLeija.")
@@ -9,20 +11,21 @@ print("Hello, I am DiddiLeija.")
 
 ## Table of contents
 
-Find good pages about me, on a “more personal” level than the GitHub profile.
+Find pages about me, on a “more-personal” level than my other profiles.
 
 ### Maintained pages
 
 - [My programming story](my_story). There, you can read my story since I started to write programs.
-- [My programming profile](profile). Read a short document about the things I use.
+- [My programming profile](profile). Read a short document about the things I do and use.
 - [My Python packages](py_packages). Read about some of my uploaded Python packages.
 - [Find me on the Internet](find_me). See many links to find me on the web.
 - [My wiki](wiki). A small database with pages abut my stuff's concepts.
+- [Info about my Ko-fi page](kofi). Would you like to support me with your cents? Check out that doc first.
 
 ### (Unmaintained) pages
 
 - [My programmer diary](diary). An (unmaintained) binnacle.
-- Pages on my [projects section](projects/). Projects that deserve a separate page...
+- Pages on my [projects section](projects/). Projects that deserve\[d\] their own page...
   - [`dirty-experiments`](projects/dirty_experiments): Miscellaneous experiments of programming
   - [`DiddiOS`](projects/diddios): A developer-friendly OS, based on Linux
 - My (deprecated) [articles](articles/) section.
@@ -41,8 +44,11 @@ Visit my Ko-fi page for leaving me a tip! Check out more info [right here](kofi)
 
 ----
 
-![Diddi's Giant Image](Diddi3.png)
+<!-- TODO: Update this image with a cleaner one! -->
+![Diddi's Full Image](Diddi3.png)
 
+<!--
 ----
 
 _This site (and its components) is licensed under the [MIT license](license_notice)._
+-->
