@@ -24,6 +24,46 @@ _Fun fact: The "Authority" thing is meant to be a joke, but the PyPA is more lik
 
 Nox is a configurable Python testing tool. At the beginning, it was a personal project of Thea Flowers. At that point, I started to contribute, and then I became a collaborator. And then, Flowers transferred the project to Winterbloom, her synth-maker company. I'm proud of being part of such thing.
 
+## Diddi and the Bugs
+
+| Category | Data |
+|---|---|
+| Language(s) | Python |
+| Owner(s) | Me |
+| Project URL | [diddileija.itch.io/diddi-and-the-bugs](https://diddileija.itch.io/diddi-and-the-bugs) |
+
+This is my very first published game! The goal of the game is to drive a spacecraft and shoot all the "bugs" hanging around the space. It's written in Python using [Pyxel](https://github.com/kitao/pyxel), so it has a retro style included. And don't worry, non-Python users: there're standalone versions just for you!
+
+## Abandon the ship!
+
+| Category | Data |
+|---|---|
+| Language(s) | Python |
+| Owner(s) | Me |
+| Project URL | [diddileija.itch.io/abandon-the-ship](https://diddileija.itch.io/abandon-the-ship) |
+
+"Abandon the ship!" is my second published game. In this one, you have to escape from a doomed ship, avoiding danger zones. Just like Diddi and the Bugs, this game's also written with Python and Pyxel, so both games keep a retro-purity style. And, again: I've published this game with standalone dists for non-Python users.
+
+## dirty-experiments
+
+| Category | Data |
+|---|---|
+| Language(s) | Various (Most notable: C++, Python, Arduino, etc.) |
+| Owner(s) | Me |
+| Project URL | [github.com/DiddiLeija/dirty-experiments](https://github.com/DiddiLeija/dirty-experiments) |
+
+As I said above, I'm usually making experiments to learn more. At this repository, I've put together experiments from Python, C++, Kotlin, Arduino, and other languages. Some of the included languages are not my strong point, but I have the goal of learning them at some point.
+
+## DiddiParser 2
+
+| Category | Data |
+|---|---|
+| Language(s) | Python |
+| Owner(s) | Me |
+| Project URL | [diddiparser2.rtfd.io](https://diddiparser2.readthedocs.io/) |
+
+This is an unstable experiment I keep since I started to code. My dream is to create some sort of a "new programming language", and this project is the closest attempt I've made. However, it still needs a heavy polish.
+
 <!-- This is the old doc. Let's use it as a reference. -->
 <!--
 
