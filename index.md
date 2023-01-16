@@ -15,20 +15,20 @@ Find pages about me, on a “more-personal” level than my other profiles.
 
 ### Maintained pages
 
-- [My programming story](my_story). There, you can read my story since I started to write programs.
+- [My programming story](my_story). There, you can read how did I get here.
 - [My programming profile](profile). Read a short document about the things I do and use.
-- [My Python packages](py_packages). Read about some of my uploaded Python packages.
-- [Find me on the Internet](find_me). See many links to find me on the web.
+- [My Python packages](py_packages). Read about some of the projects I maintain.
+- [Find me on the Internet](find_me). See many of my profiles around the web.
 - [My wiki](wiki). A small database with pages abut my stuff's concepts.
 - [Info about my Ko-fi page](kofi). Would you like to support me with your cents? Check out that doc first.
 
 ### (Unmaintained) pages
 
-- [My programmer diary](diary). An (unmaintained) binnacle.
+- [My programmer diary](diary). A (now unmaintained) binnacle.
 - Pages on my [projects section](projects/). Projects that deserve\[d\] their own page...
   - [`dirty-experiments`](projects/dirty_experiments): Miscellaneous experiments of programming
   - [`DiddiOS`](projects/diddios): A developer-friendly OS, based on Linux
-- My (deprecated) [articles](articles/) section.
+- My [articles](articles/) section.
   - [1. Creating standalone Windows executables from Python code, using cx\_Freeze](articles/article-01)
   - [2. Why you shouldn't install Python from the Microsoft Store if you want to do advanced code?](articles/article-02)
   - [3. Jumping from Python 2 to Python 3](articles/article-03)
@@ -47,6 +47,7 @@ Visit my Ko-fi page for leaving me a tip! Check out more info [right here](kofi)
 <!-- TODO: Update this image with a cleaner one! -->
 ![Diddi's Full Image](Diddi3.png)
 
+<!-- TODO: Get another license! -->
 <!--
 ----
 
