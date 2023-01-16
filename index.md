@@ -17,7 +17,7 @@ Find pages about me, on a “more-personal” level than my other profiles.
 
 - [My programming story](my_story). There, you can read how did I get here.
 - [My programming profile](profile). Read a short document about the things I do and use.
-- [My Python packages](py_packages). Read about some of the projects I maintain.
+- [My projects](projects). Read about some of the projects I maintain.
 - [Find me on the Internet](find_me). See many of my profiles around the web.
 - [My wiki](wiki). A small database with pages abut my stuff's concepts.
 - [Info about my Ko-fi page](kofi). Would you like to support me with your cents? Check out that doc first.
