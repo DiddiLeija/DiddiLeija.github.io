@@ -25,9 +25,9 @@ Find pages about me, on a “more-personal” level than my other profiles.
 ### (Unmaintained) pages
 
 - [My programmer diary](diary). A (now unmaintained) binnacle.
-- Pages on my [projects section](projects/). Projects that deserve\[d\] their own page...
-  - [`dirty-experiments`](projects/dirty_experiments): Miscellaneous experiments of programming
-  - [`DiddiOS`](projects/diddios): A developer-friendly OS, based on Linux
+- Pages on my [projects section](legacy_projects/). Projects that deserve\[d\] their own page...
+  - [`dirty-experiments`](legacy_projects/dirty_experiments): Miscellaneous experiments of programming
+  - [`DiddiOS`](legacy_projects/diddios): A developer-friendly OS, based on Linux
 - My [articles](articles/) section.
   - [1. Creating standalone Windows executables from Python code, using cx\_Freeze](articles/article-01)
   - [2. Why you shouldn't install Python from the Microsoft Store if you want to do advanced code?](articles/article-02)
