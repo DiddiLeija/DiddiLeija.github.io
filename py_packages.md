@@ -1,3 +1,32 @@
+# My project list
+
+I'm usually learning and (sometimes) making danerous experiments. But I'm also doing serious OSS work. Here's a list of the latter.
+
+## Pip
+
+| Category | Data |
+|---|---|
+| Language(s) | Python |
+| Onwer(s) | [PyPA](https://pypa.io) |
+| Project URL | [pip.pypa.io](https://pip.pypa.io) |
+
+Pip is the Python package installer, and is used by many many people who needs third-party tools. This is the very first non-personal project I've joined, and the maintainer team supported me a lot. Then, after some months, I joined the PyPA ("Python Packaging Authority") to keep helping wherever I can.
+
+_Fun fact: The "Authority" thing is meant to be a joke, but the PyPA is more like an "Association"!_
+
+## Nox
+
+| Category | Data |
+|---|---|
+| Language(s) | Python |
+| Onwer(s) | [Thea Flowers](https://thea.codes), [Winterbloom](https://winterbloom.com) |
+| Project URL | [nox.thea.codes](https://nox.thea.codes) |
+
+Nox is a configurable Python testing tool. At the beginning, it was a personal project of Thea Flowers. At that point, I started to contribute, and then I became a collaborator. And then, Flowers transferred the project to Winterbloom, her synth-maker company. I'm proud of being part of such thing.
+
+<!-- This is the old doc. Let's use it as a reference. -->
+<!--
+
 # My uploaded Python packages
 
 As a part of my programming work, I frequently create [packages](https://packaging.python.org/glossary/#term-Import-Package) to be installed by pip, like this:
@@ -81,3 +110,4 @@ print(justify(s))
 simple functions and submodules. It's still on development, so feel free to take a look on it.
 
 \([View this project on GitHub](http://github.com/diddileija/text_formatter) or see the [ReadTheDocs documentation site](http://text-formatter.readthedocs.io)\).
+-->
