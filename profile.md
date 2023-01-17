@@ -1,29 +1,29 @@
 # My programmer profile (or something like that)
 
-It is a bit complicated to make me fit into a simple, short profile. Anyway, I am talking about
-my "general" programmer story with some highlights, this is not about my GitHub profile \(for that,
-you can go [here](http://github.com/DiddiLeija)\).
+Here's some sort of a "general" programmer profile with some highlights. It's more like a
+"fun facts list", though.
 
 ## Programming languages
 
 - My first programming language: **Pascal**. Yeah, this obsolete language is, officially, the first programming language I learned.
 - My favorite programming language: **Python**. Of course that I love Python!
-- The hardest language \(for me\): **JavaScript**. JavaScript is hard for me when I use it on HTMLs \(without the amazing _Node.js_ tool\).
+- The hardest language \(for me\): **JavaScript**. JavaScript is hard for me when I use it on HTMLs. But I'll overcome that at some point.
 - The most unused language for me: **Pascal**. I just used it for something more than 2 months, and then I forgot it.
-- All the languages I can use (to be specific, that I can use well):
+- All the languages I can use (to be specific, that I can use properly):
   - Python
   - Pascal
   - Java
   - JavaScript
   - C++
   - Kotlin
+  - Does HTML count?
 
 ## \(Real\) languages that I use for programming
 
-\(I mean, spoken languages\).
+I mean, spoken languages. The percentages aren't a _real_ amount, but the most probable.
 
-- 70% **English**. Most of my public \(and private\) repositories are made in English.
-- 30% **Spanish**. Even when it is my native language, I don't use it a lot for programming \(just with local projects\).
+- 60% **English**. Most of my public \(and private\) repositories are made in English.
+- 40% **Spanish**. Even when it is my native language, I don't use it a lot for programming \(just with local projects\).
   However, I help some projects to translate docs to this language!
 
 ## Programming branches
@@ -46,21 +46,14 @@ _In order of usage_:
 
 ## Organizations
 
-Those organizations that I've joined, hosted in GitHub.
+Those organizations that I've joined.
 
-- **[@pypa](http://github.com/pypa)**: I am collaborating with [`pip`](http://pip.pypa.io) on [trivial changes](https://github.com/pypa/pip/issues?q=author%3ADiddiLeija) and I give attention to some issues from newcomer users. I think [@pypa](http://github.com/pypa) has strongly contributed to my programming progress. Now, I'm helping with some other [@pypa](http://github.com/pypa) repositories, too.
-- **[@wntrblm](https://github.com/wntrblm)**: I'm part of the Winterbloom team because of [Nox](https://nox.thea.codes), which is now part of this organization.
+- **[PyPA](https://pypa.io)**: I am collaborating with [`pip`](http://pip.pypa.io) on [trivial changes](https://github.com/pypa/pip/issues?q=author%3ADiddiLeija) and I give attention to some issues from newcomer users. I think PyPA has strongly contributed to my programming progress. Now, I'm helping with some other PyPA-regulated repositories, too.
+- **[Winterbloom](https://winterbloom.com)**: I'm part of the Winterbloom team because of [Nox](https://nox.thea.codes), which is now part of this organization.
 
 ## Some important contributions
 
-Some of my highest contributions.
-
-- **[Pip](https://pip.pypa.io)**. As I said above, Pip was my first opportunity to contribute on an open source project.
-- **[Nox](https://nox.thea.codes)**. I'm currently one of the [maintainers of the project](https://nox.thea.codes/en/stable/#maintainers-contributors).
-
-I'm glad to be in these projects, it's such an honor for me :)
-
-****
+Please check [my projects list](projects).
 
 ## Fact: _Why "DiddiLeija"?_
 
@@ -77,5 +70,7 @@ a metal mask. I have to admit it: _I loved Diddi from the first time._
 
 So, when I started to share code with the world, I decided to take the name, and I made some changes to it (I added "Leija", which is a spanish surname).
 After that, "DiddiLeija" appears... To keep the personality of Diddi, I selected the Jekyll theme `hacker` for my website.
+
+If you're interested in Diddi, feel free to read [its entry from my wiki](./wiki/Diddi).
 
 Now, I think you'll understand more things about me and this site, right?
