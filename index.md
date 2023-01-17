@@ -47,9 +47,6 @@ Visit my Ko-fi page for leaving me a tip! Check out more info [right here](kofi)
 <!-- TODO: Update this image with a cleaner one! -->
 ![Diddi's Full Image](Diddi3.png)
 
-<!-- TODO: Get another license! -->
-<!--
 ----
 
-_This site (and its components) is licensed under the [MIT license](license_notice)._
--->
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional.</a> | This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>.
