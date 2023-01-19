@@ -40,7 +40,7 @@ Find pages about me, on a “more-personal” level than my other profiles.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G3AL6D6)
 
-Visit my Ko-fi page for leaving me a tip! Check out more info [right here](kofi).
+If you think my work is nice, and want to support me with your cents, you can visit my Ko-fi page for leaving me a tip! Check out more info about this page [at the "Info about my Ko-fi page" article I wrote](kofi).
 
 ----
 
