@@ -60,9 +60,9 @@ I use those communities to ask and answer questions. The full list of communitie
 
 Yeah, I have a developer account on Google. See it [here](https://developers.google.com/profile/u/116698410132405877660).
 
-## [DigitalOcean](https://www.digitalocean.com/)
+## [LeetCode](https://leetcode.com)
 
-I logged in there for some reason, I think. Find me [here](https://www.digitalocean.com/community/users/diddileija).
+I joined LeetCode for making contests to improve. As always, I can be found as [DiddiLeija](https://leetcode.com/DiddiLeija).
 
 ## [CodeForces](https://codeforces.com)
 
@@ -71,6 +71,10 @@ I have a CodeForces account for joining contests. Here's my [profile](https://co
 ## [AtCoder](https://atcoder.jp)
 
 Just like other platforms, I joined here for training via contests. Here's my [profile](https://atcoder.jp/users/DiddiLeija).
+
+## [DigitalOcean](https://www.digitalocean.com/)
+
+I logged in there for some reason, I think. Find me [here](https://www.digitalocean.com/community/users/diddileija).
 
 ## ... Of course, [this site](https://DiddiLeija.github.io)!
 
