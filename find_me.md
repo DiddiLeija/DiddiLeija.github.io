@@ -64,6 +64,14 @@ Yeah, I have a developer account on Google. See it [here](https://developers.goo
 
 I logged in there for some reason, I think. Find me [here](https://www.digitalocean.com/community/users/diddileija).
 
+## [CodeForces](https://codeforces.com)
+
+I have a CodeForces account for joining contests. Here's my [profile](https://codeforces.com/profile/DiddiLeija).
+
+## [AtCoder](https://atcoder.jp)
+
+Just like other platforms, I joined here for training via contests. Here's my [profile](https://atcoder.jp/users/DiddiLeija).
+
 ## ... Of course, [this site](https://DiddiLeija.github.io)!
 
 How to find it? Well, you're already on it... This site exists as a proof of my existence in the mighty universe...
