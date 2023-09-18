@@ -12,7 +12,7 @@ I joined, in case somebody wants to leave me a tip. I would **really** appreciat
 I'm Diego, better known as... **DiddiLeija**!
 
 I'm a coder, drawer, writer, videogame player, food lover, etc... I like to do open-source
-stuff, create some comics, and help with anything else I could give. I entered the Internet
+stuff, draw cartoons, and help with anything else I can. I entered the Internet
 in 2021, when I registered to GitHub. Since that, I've been working on some open source projects,
 like [pip](https://pip.pypa.io) and [Nox](https://nox.thea.codes).
 

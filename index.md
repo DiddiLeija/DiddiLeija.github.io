@@ -10,7 +10,7 @@ print("Hello, I am DiddiLeija.")
 
 ## Table of contents
 
-Find pages about me, on a "more-personal" level than my other profiles.
+Find pages about me, on a "more personal" level than other profile pages.
 
 - [My programming story](my_story), where you can read how did I get here.
 - [My programming profile](profile), a short document about the things I do and use.
@@ -30,7 +30,7 @@ If you think my work is nice, and want to support me, you can visit my Ko-fi pag
 ----
 
 <!-- TODO: Change this image! -->
-![Diddi's Full Image](Diddi3.png)
+![Diddi's Full Image](assets/Diddi3.png)
 
 ----
 
