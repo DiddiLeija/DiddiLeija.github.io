@@ -20,8 +20,8 @@ I'll reply to you as soon as possible!
 Initially, I created a Discord account to join the [Winterbloom](https://winterbloom.com/) server and chat about [Nox](https://nox.thea.codes),
 but you can always ping me with a DM if you have something good to say.
 
-You can also join my own Discord server, that I made to chat about my games. If you're ready, visit this small community at
-[discord.gg/DfrHxT9ENy](https://discord.gg/DfrHxT9ENy). I would _love_ to hear about you!
+You can also join my own Discord server, that I made to chat about my stuff. Please read
+[this article](./discord) for further details.
 
 ## [itch.io](https://itch.io)
 

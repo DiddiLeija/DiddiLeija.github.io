@@ -20,9 +20,8 @@ You can check a few pages about me, if you want to known who I am:
 
 - [My GitHub profile](https://github.com/DiddiLeija)
 - [My website](https://diddileija.github.io). I would like to point some specific pages in there:
-  - [My "profile" page](profile)
-  - [My little programmer story](my_story)
-  - [My diary](diary) <!-- Or should it be... "journal"? I think I made a BIG mistake here :/ -->
+  - [My profile page](profile)
+  - [My short programmer story](my_story)
   - [A page with places to find me](find_me) (In case you want to see other profiles)
 
 ## Introducing my Ko-fi page
