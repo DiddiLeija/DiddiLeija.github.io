@@ -1,46 +1,45 @@
 # My programmer profile (or something like that)
 
-Here's some sort of a "general" programmer profile with some highlights. It's more like a
+Here you can read some details and highlights of my developer profile. It's more like a
 "fun facts list", though.
 
 ## Programming languages
 
-- My first programming language: **Pascal**. Yeah, this obsolete language is, officially, the first programming language I learned.
-- My favorite programming language: **Python**. Of course that I love Python!
-- The hardest language \(for me\): **JavaScript**. JavaScript is hard for me when I use it on HTMLs. But I'll overcome that at some point.
-- The most unused language for me: **Pascal**. I just used it for something more than 2 months, and then I forgot it.
-- All the languages I can use (to be specific, that I can use properly):
+- Languages I already know:
   - Python
+  - C++
+  - C (barely)
+  - JavaScript (barely)
+- Languages I want to learn:
+  - Kotlin
+  - Rust
+- Languages I've forgotten:
   - Pascal
   - Java
-  - JavaScript
-  - C++
-  - Kotlin
-  - Does HTML count?
 
-## \(Real\) languages that I use for programming
+## Spoken languages that I use for programming
 
-I mean, spoken languages. The percentages aren't a _real_ amount, but the most probable.
+The percentages aren't a _real_ amount, they're just to give you an idea of how much do I use them.
 
-- 60% **English**. Most of my public \(and private\) repositories are made in English.
-- 40% **Spanish**. Even when it is my native language, I don't use it a lot for programming \(just with local projects\).
-  However, I help some projects to translate docs to this language!
+- 60% **English**. Most of my public (and private) repositories are made in English.
+- 40% **Spanish**. Even when it is my native language, I don't use it a lot for programming
+  (just with local projects). I also sometimes translate some programming stuff to Spanish.
 
 ## Programming branches
 
-Those that I use, _in order of preference_:
+_In order of preference_:
 
 1. **Game development**. It's more a hobby than a job, but I love it
-2. **Packaging**. Most of my public repos and my public contributions are about packages. I like making things that any other developer can download and use.
-3. **GUIs**. I love making things that the others can see, you know.
+2. **Packaging**. I've been working on packaging for a long time, and I really like it.
+3. **GUIs**. I love making things visible for everyone, you know.
 4. **Web programming**. I'm not an expert at all, but I like it.
-5. **Databases**. Well... I'm not a "huge fan" of doing databases, but I can do it.
+5. **Databases**. I'm not a "huge fan" of doing databases, but I can do it.
 
 _In order of usage_:
 
-1. **Packaging**. I am currently working to find a way to improve [my existing packages around GitHub](http://github.com/DiddiLeija?tab=repositories).
-2. **GUIs**. I make GUIs for my local community \(to help their jobs\).
-3. **Game development**. I don't spend all my time in this, even when I love it.
+1. **Packaging**. I am currently working to find a way to improve in this area.
+2. **Game development**. I'm constantly improving my current games and creating new ones.
+3. **GUIs**. I make GUIs for some business locally.
 4. **Databases**. I don't like them, but my community needs databases for their jobs.
 5. **Web programming**. I create personal projects with JavaScript or just HTMLs.
 
@@ -66,7 +65,7 @@ One of my characters is named **`Diddi`**. He wears
 a dark mask, black suit and a green backpack. On my comics, Diddi is a digital hero from the future, that hides himself from the rest of the people by using
 a metal mask. I have to admit it: _I loved Diddi from the first time._
 
-![Diddi Sketch No. 35](Diddi-Drawings-35.png)
+![Diddi Sketch No. 35](assets/Diddi-Drawings-35.png)
 
 So, when I started to share code with the world, I decided to take the name, and I made some changes to it (I added "Leija", which is a spanish surname).
 After that, "DiddiLeija" appears... To keep the personality of Diddi, I selected the Jekyll theme `hacker` for my website.
