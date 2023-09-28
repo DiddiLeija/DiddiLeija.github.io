@@ -10,7 +10,13 @@ If you would like to learn more about my server before joining, then keep readin
 
 ## What do we do in _DiddiLeija's Server_?
 
-Mostly, I get in touch with collaborators, send news, organize new projects/events, etc.
+Mostly, I get in touch with collaborators, send news, organize and announce new projects/events, etc. The server is also intended for answering your questions about me/my stuff, and participating in polls. Sometimes we also laugh with "programmer jokes".
+
+These are the main projects I tend to chat about:
+
+- [Diddi and the Bugs](wiki/Diddi_and_the_Bugs) (Game)
+- [Abandon the Ship!](wiki/Abandon_the_Ship) (Game)
+- ["The Bugs of Diddi" chess team](https://lichess.org/team/the-bugs-of-diddi) (my own team where I may organize casual tournaments)
 
 ## Server safety
 
@@ -30,5 +36,5 @@ project-focused channels), you can gain access to a few special channels:
 - `#wips`, where you can see the most anticipated WIPs.
 
 To gain access to these channels, you must earn a **server role**. To gain one, you can either contribute 
-with a commit (_Project Contributor_), [leave me a tip](./kofi) (_Ko-fi Supporter_), providing feedback on my stuff
-(_Market Study Participant_), via ocasional opportunities, etc..
+with a commit (_Project Contributor_), [leave me a tip](./kofi) (_Ko-fi Supporter_), provide feedback on my stuff
+(_Market Study Participant_), ask me an interesting question on a certain moment (_Interviewer_), via ocasional opportunities, etc.
