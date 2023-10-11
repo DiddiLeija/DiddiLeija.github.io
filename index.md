@@ -17,6 +17,7 @@ Find pages about me, on a "more personal" level than other profile pages.
 - [My projects](projects).
 - [Find me on the Internet](find_me), by seeing a bunch of my "official" profiles around the web.
 - [My wiki](wiki), a small database with pages abut my products' concepts and data.
+- [My "log"](log), an articles feed about several topics.
 - [Info about my Ko-fi page](kofi): Would you like to support me with your cents? Check out that doc first.
 - [Info about my Discord server](discord): Read some useful information about the small community I mantain, in case you want to join.
 
